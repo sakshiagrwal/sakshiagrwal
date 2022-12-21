@@ -81,3 +81,5 @@ if code_working:
     while code_quality < perfect_code:
         code_quality += 1
 ```
+
+![snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
