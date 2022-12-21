@@ -8,12 +8,6 @@
 <a href="https://twitter.com/sakshiagrwal" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/sakshiagrwal" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
 
-## Creation 👨‍💻
-
-
-### <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="16px" /> [Mailmac - Email client for Mac](https://github.com/sakshiagrwal/mailmac)
-
-### <img src="https://metaseo.itsvg.in/logo.png" width="16px" /> [Pvm - Photo Viewer for Mac](https://github.com/sakshiagrwal/pvm)
 
 ## Tech Stack 💻
 #### Languages
