@@ -82,4 +82,5 @@ if code_working:
         code_quality += 1
 ```
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/sakshiagrwal/sakshiagrwal/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/sakshiagrwal/sakshiagrwal/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/sakshiagrwal/sakshiagrwal/output/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/sakshiagrwal/sakshiagrwal/output/github-snake.svg#gh-light-mode-only)
