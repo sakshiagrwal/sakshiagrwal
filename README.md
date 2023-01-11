@@ -1,4 +1,4 @@
-## Hello everyone! 👋
+## Hello everyone! :wave:
 
 My name is Sakshi and I am passionate about solving problems using programming.
 
