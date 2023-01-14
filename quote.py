@@ -1,5 +1,4 @@
 import requests
-import re
 
 
 def update_quote():
@@ -12,17 +11,19 @@ def update_quote():
 
     # Open the README.md file
     with open("README.md", "r") as f:
-        readme = f.read()
+        readme_lines = f.readlines()
 
-    # Replace the old quote with the new quote
-    new_readme = re.sub(r"(#### _Quote:).*", f"\g<1> {quote}_", readme)
+    # Find the line number of the quote and author
+    quote_line = 13
+    author_line = 15
 
-    # Replace the old author with the new author
-    new_readme = re.sub(r"(######).*", f"\g<1> _by {author}_", new_readme)
+    # Replace the quote and author lines
+    readme_lines[quote_line-1] = f"{quote}\n"
+    readme_lines[author_line-1] = f"{author}\n"
 
-    # Write the new quote to the README.md file
+    # Write the new quote and author to the README.md file
     with open("README.md", "w") as f:
-        f.write(new_readme)
+        f.writelines(readme_lines)
 
 
 update_quote()
