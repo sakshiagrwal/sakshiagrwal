@@ -14,8 +14,8 @@ def update_quote():
         readme_lines = f.readlines()
 
     # Find the line number of the quote and author
-    quote_line = 13
-    author_line = 15
+    quote_line = 11
+    author_line = 13
 
     # Replace the quote and author lines
     readme_lines[quote_line-1] = f"#### _{quote}_\n"
