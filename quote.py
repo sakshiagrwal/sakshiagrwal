@@ -18,8 +18,8 @@ def update_quote():
     author_line = 15
 
     # Replace the quote and author lines
-    readme_lines[quote_line-1] = f"#### _{quote}_\n"
-    readme_lines[author_line-1] = f"###### _by {author}_\n"
+    readme_lines[quote_line-1] = f"#### :books: _{quote}_\n"
+    readme_lines[author_line-1] = f"###### :pencil2: _by {author}_\n"
 
     # Write the new quote and author to the README.md file
     with open("README.md", "w") as f:

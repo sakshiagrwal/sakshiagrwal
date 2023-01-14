@@ -1,6 +1,6 @@
 ## Hello everyone! :wave:
 
-My name is Sakshi and I am passionate about solving problems using programming.
+My name is Sakshi and I am passionate about solving problems using programming. :computer:
 
 <br/> :purple_heart: &nbsp; I'm a 1st year computer science student from Bengaluru, India with a passion for coding and learning new technologies. I'm currently pursuing an internship to gain hands-on experience and boost my skills.
 
@@ -10,9 +10,11 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### _Go for it now. The future is promised to no one._
+#### :books: _Go for it now. The future is promised to no one._
 
-###### _by Wayne Dyer_
+###### :pencil2: _by Wayne Dyer_
+
+#
 
 <img src="https://raw.githubusercontent.com/sakshiagrwal/sakshiagrwal/output/github-snake-dark.svg#gh-dark-mode-only">
 <img src="https://raw.githubusercontent.com/sakshiagrwal/sakshiagrwal/output/github-snake.svg#gh-light-mode-only">
