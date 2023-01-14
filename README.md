@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### _Error is discipline through which we advance._
+#### _We gain the strength of the temptation we resist._
 
-###### _William Ellery Channing_
+###### _by Ralph Waldo Emerson_
 
 #
 
