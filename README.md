@@ -8,9 +8,9 @@ I have a focus on efficient and creative problem-solving, and I strive to create
 
 My GitHub profile is where I share my projects and learning experiences. I welcome collaborations and feedback on my work. So, feel free to check out my repositories and connect with me.
 
-#### _We gain the strength of the temptation we resist._
+#### _Life is like riding a bicycle. To keep your balance you must keep moving._
 
-###### _by Ralph Waldo Emerson_
+###### _by Albert Einstein_
 
 <img src="https://raw.githubusercontent.com/sakshiagrwal/sakshiagrwal/output/github-snake-dark.svg#gh-dark-mode-only">
 <img src="https://raw.githubusercontent.com/sakshiagrwal/sakshiagrwal/output/github-snake.svg#gh-light-mode-only">
