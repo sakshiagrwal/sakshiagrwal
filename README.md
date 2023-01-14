@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### _Quote: A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool._
+#### _Quote: I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex._
 
-###### _by Joseph Roux_
+###### _by Kurt Vonnegut_
 
 #
 
