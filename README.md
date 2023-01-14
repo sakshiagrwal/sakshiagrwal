@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### _Quote:
+#### _Quote: At the center of your being, you have the answer; you know who you are, and you know what you want._
 
-######
+###### _by Laozi_
 
 #
 
