@@ -19,7 +19,7 @@ def update_quote():
 
     # Replace the quote and author lines
     readme_lines[quote_line-1] = f"#### _{quote}_\n"
-    readme_lines[author_line-1] = f"###### _{author}_\n"
+    readme_lines[author_line-1] = f"###### _by {author}_\n"
 
     # Write the new quote and author to the README.md file
     with open("README.md", "w") as f:
