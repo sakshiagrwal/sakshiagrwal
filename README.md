@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### _Quote: At the center of your being, you have the answer; you know who you are, and you know what you want._
+#### _Quote: A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool._
 
-###### _by Laozi_
+###### _by Joseph Roux_
 
 #
 
