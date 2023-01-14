@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-The day of fortune is like a harvest day, we must be busy when the corn is ripe.
+#### _Error is discipline through which we advance._
 
-Torquato Tasso
+###### _William Ellery Channing_
 
 #
 
