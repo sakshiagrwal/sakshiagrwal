@@ -13,10 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Set up Node.js
-        uses: actions/setup-node@v1
-        with:
-          node-version: 16
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
