@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Go for it now. The future is promised to no one._
+#### :books: _Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning._
 
-###### :pencil2: _by Wayne Dyer_
+###### :pencil2: _by Winston Churchill_
 
 #
 
