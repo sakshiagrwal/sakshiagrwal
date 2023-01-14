@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### _Life is like riding a bicycle. To keep your balance you must keep moving._
+#### _Go for it now. The future is promised to no one._
 
-###### _by Albert Einstein_
+###### _by Wayne Dyer_
 
 <img src="https://raw.githubusercontent.com/sakshiagrwal/sakshiagrwal/output/github-snake-dark.svg#gh-dark-mode-only">
 <img src="https://raw.githubusercontent.com/sakshiagrwal/sakshiagrwal/output/github-snake.svg#gh-light-mode-only">
