@@ -8,6 +8,8 @@ I have a focus on efficient and creative problem-solving, and I strive to create
 
 My GitHub profile is where I share my projects and learning experiences. I welcome collaborations and feedback on my work. So, feel free to check out my repositories and connect with me.
 
+#
+
 #### _Life is like riding a bicycle. To keep your balance you must keep moving._
 
 ###### _by Albert Einstein_
