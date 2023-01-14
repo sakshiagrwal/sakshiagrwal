@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### _Quote: I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex._
+The day of fortune is like a harvest day, we must be busy when the corn is ripe.
 
-###### _by Kurt Vonnegut_
+Torquato Tasso
 
 #
 
