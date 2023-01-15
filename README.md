@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning._
+#### :books: _Trust yourself. You know more than you think you do._
 
-###### :pencil2: _by Winston Churchill_
+###### :pencil2: _by Benjamin Spock_
 
 #
 
