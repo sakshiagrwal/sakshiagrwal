@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Trust yourself. You know more than you think you do._
+#### :books: _Kindness is the language which the deaf can hear and the blind can see._
 
-###### :pencil2: _by Benjamin Spock_
+###### :pencil2: _by Mark Twain_
 
 #
 
