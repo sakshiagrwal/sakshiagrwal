@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Kindness is the language which the deaf can hear and the blind can see._
+#### :books: _No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution._
 
-###### :pencil2: _by Mark Twain_
+###### :pencil2: _by Niccolò Machiavelli_
 
 #
 
