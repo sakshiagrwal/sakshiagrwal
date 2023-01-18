@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution._
+#### :books: _The human spirit must prevail over technology._
 
-###### :pencil2: _by Niccolò Machiavelli_
+###### :pencil2: _by Albert Einstein_
 
 #
 
