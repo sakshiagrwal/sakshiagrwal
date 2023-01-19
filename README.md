@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _The human spirit must prevail over technology._
+#### :books: _Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity._
 
-###### :pencil2: _by Albert Einstein_
+###### :pencil2: _by Louis Pasteur_
 
 #
 
