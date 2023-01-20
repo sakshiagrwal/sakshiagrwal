@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity._
+#### :books: _The time to repair the roof is when the sun is shining._
 
-###### :pencil2: _by Louis Pasteur_
+###### :pencil2: _by John F. Kennedy_
 
 #
 
