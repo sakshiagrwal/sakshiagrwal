@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _The time to repair the roof is when the sun is shining._
+#### :books: _Quality is not an act; it is a habit._
 
-###### :pencil2: _by John F. Kennedy_
+###### :pencil2: _by Aristotle_
 
 #
 
