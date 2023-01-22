@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Quality is not an act; it is a habit._
+#### :books: _Life is a progress, and not a station._
 
-###### :pencil2: _by Aristotle_
+###### :pencil2: _by Ralph Waldo Emerson_
 
 #
 
