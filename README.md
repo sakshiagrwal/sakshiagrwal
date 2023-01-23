@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Life is a progress, and not a station._
+#### :books: _Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest._
 
-###### :pencil2: _by Ralph Waldo Emerson_
+###### :pencil2: _by Sri Chinmoy_
 
 #
 
