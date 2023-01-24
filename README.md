@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest._
+#### :books: _Our doubts are traitors and make us lose the good we often might win, by fearing to attempt._
 
-###### :pencil2: _by Sri Chinmoy_
+###### :pencil2: _by Jane Addams_
 
 #
 
