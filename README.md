@@ -10,11 +10,14 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Our doubts are traitors and make us lose the good we often might win, by fearing to attempt._
+#### :books: _We should not give up and we should not allow the problem to defeat us._
 
-###### :pencil2: _by Jane Addams_
+###### :pencil2: _by A. P. J. Abdul Kalam_
 
 #
 
-<img src="https://raw.githubusercontent.com/sakshiagrwal/sakshiagrwal/output/github-snake-dark.svg#gh-dark-mode-only">
-<img src="https://raw.githubusercontent.com/sakshiagrwal/sakshiagrwal/output/github-snake.svg#gh-light-mode-only">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sakshiagrwal/sakshiagrwal/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sakshiagrwal/sakshiagrwal/output/github-snake.svg">
+  <img alt="snk" src="https://raw.githubusercontent.com/sakshiagrwal/sakshiagrwal/output/github-snake.svg">
+</picture>
