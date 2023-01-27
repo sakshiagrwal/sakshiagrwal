@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Be true to yourself, help others, make each day your masterpiece, make friendship a fine art, drink deeply from good books - especially the Bible, build a shelter against a rainy day, give thanks for your blessings and pray for guidance every day._
+#### :books: _The ladder of success is never crowded at the top._
 
-###### :pencil2: _by John Wooden_
+###### :pencil2: _by Napoleon Hill_
 
 #
 
