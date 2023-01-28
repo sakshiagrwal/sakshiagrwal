@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _The ladder of success is never crowded at the top._
+#### :books: _The greatest mistake you can make in life is to be continually fearing you will make one._
 
-###### :pencil2: _by Napoleon Hill_
+###### :pencil2: _by Elbert Hubbard_
 
 #
 
