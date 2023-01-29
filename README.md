@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _The greatest mistake you can make in life is to be continually fearing you will make one._
+#### :books: _Chaos is inherent in all compounded things. Strive on with diligence._
 
-###### :pencil2: _by Elbert Hubbard_
+###### :pencil2: _by Buddha_
 
 #
 
