@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Chaos is inherent in all compounded things. Strive on with diligence._
+#### :books: _No man can succeed in a line of endeavor which he does not like._
 
-###### :pencil2: _by Buddha_
+###### :pencil2: _by Napoleon Hill_
 
 #
 
