@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _No man can succeed in a line of endeavor which he does not like._
+#### :books: _Honesty is the first chapter in the book of wisdom._
 
-###### :pencil2: _by Napoleon Hill_
+###### :pencil2: _by Thomas Jefferson_
 
 #
 
