@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing._
+#### :books: _We must not allow ourselves to become like the system we oppose._
 
-###### :pencil2: _by Aristotle_
+###### :pencil2: _by Desmond Tutu_
 
 #
 
