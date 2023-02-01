@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Honesty is the first chapter in the book of wisdom._
+#### :books: _Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing._
 
-###### :pencil2: _by Thomas Jefferson_
+###### :pencil2: _by Aristotle_
 
 #
 
