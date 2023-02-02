@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _We must not allow ourselves to become like the system we oppose._
+#### :books: _A youth, when at home, should be filial and, abroad, respectful to his elders. He should be earnest and truthful. He should overflow in love to all and cultivate the friendship of the good. When he has time and opportunity, after the performance of these things, he should employ them in polite studies._
 
-###### :pencil2: _by Desmond Tutu_
+###### :pencil2: _by Confucius_
 
 #
 
