@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value._
+#### :books: _The superior man is satisfied and composed; the mean man is always full of distress._
 
-###### :pencil2: _by Isaac Asimov_
+###### :pencil2: _by Confucius_
 
 #
 
