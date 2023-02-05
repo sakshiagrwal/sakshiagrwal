@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _The superior man is satisfied and composed; the mean man is always full of distress._
+#### :books: _I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crisis. The great point is to bring them the real facts._
 
-###### :pencil2: _by Confucius_
+###### :pencil2: _by Abraham Lincoln_
 
 #
 
