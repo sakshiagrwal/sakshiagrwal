@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crisis. The great point is to bring them the real facts._
+#### :books: _Make the best use of what is in your power and take the rest as it happens._
 
-###### :pencil2: _by Abraham Lincoln_
+###### :pencil2: _by Epictetus_
 
 #
 
