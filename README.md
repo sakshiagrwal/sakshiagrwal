@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone._
+#### :books: _Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict._
 
-###### :pencil2: _by Audrey Hepburn_
+###### :pencil2: _by William Ellery Channing_
 
 #
 
