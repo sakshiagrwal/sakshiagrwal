@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict._
+#### :books: _The world turns aside to let any man pass who knows where he is going._
 
-###### :pencil2: _by William Ellery Channing_
+###### :pencil2: _by Epictetus_
 
 #
 
