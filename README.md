@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _The world turns aside to let any man pass who knows where he is going._
+#### :books: _I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress._
 
-###### :pencil2: _by Epictetus_
+###### :pencil2: _by Elizabeth Montagu_
 
 #
 
