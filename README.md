@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress._
+#### :books: _The less effort, the faster and more powerful you will be._
 
-###### :pencil2: _by Elizabeth Montagu_
+###### :pencil2: _by Bruce Lee_
 
 #
 
