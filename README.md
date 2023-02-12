@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _The less effort, the faster and more powerful you will be._
+#### :books: _Wisdom, compassion, and courage are the three universally recognized moral qualities of men._
 
-###### :pencil2: _by Bruce Lee_
+###### :pencil2: _by Confucius_
 
 #
 
