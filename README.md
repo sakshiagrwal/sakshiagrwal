@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Wisdom, compassion, and courage are the three universally recognized moral qualities of men._
+#### :books: _To succeed, we must first believe that we can._
 
-###### :pencil2: _by Confucius_
+###### :pencil2: _by Michael Korda_
 
 #
 
