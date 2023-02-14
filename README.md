@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _To succeed, we must first believe that we can._
+#### :books: _The World is my country, all mankind are my brethren, and to do good is my religion._
 
-###### :pencil2: _by Michael Korda_
+###### :pencil2: _by Thomas Paine_
 
 #
 
