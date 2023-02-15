@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _The World is my country, all mankind are my brethren, and to do good is my religion._
+#### :books: _Know what's important and what isn't. Have the wisdom to know the right thing to do, the integrity to do it, the character to stand up to those who don't, and the courage to stop those who won't._
 
-###### :pencil2: _by Thomas Paine_
+###### :pencil2: _by Mark Goulston_
 
 #
 
