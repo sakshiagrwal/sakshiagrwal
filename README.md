@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Learn from yesterday, live for today, hope for tomorrow._
+#### :books: _We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly._
 
-###### :pencil2: _by Albert Einstein_
+###### :pencil2: _by Sam Keen_
 
 #
 
