@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly._
+#### :books: _I destroy my enemies when I make them my friends._
 
-###### :pencil2: _by Sam Keen_
+###### :pencil2: _by Abraham Lincoln_
 
 #
 
