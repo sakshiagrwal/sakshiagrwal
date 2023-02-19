@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _I destroy my enemies when I make them my friends._
+#### :books: _Life is not a problem to be solved, but a reality to be experienced._
 
-###### :pencil2: _by Abraham Lincoln_
+###### :pencil2: _by Søren Kierkegaard_
 
 #
 
