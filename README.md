@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Life is not a problem to be solved, but a reality to be experienced._
+#### :books: _The greatest healing therapy is friendship and love._
 
-###### :pencil2: _by Søren Kierkegaard_
+###### :pencil2: _by Hubert Humphrey_
 
 #
 
