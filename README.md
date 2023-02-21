@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _The greatest healing therapy is friendship and love._
+#### :books: _Go put your creed into the deed. Nor speak with double tongue._
 
-###### :pencil2: _by Hubert Humphrey_
+###### :pencil2: _by Ralph Waldo Emerson_
 
 #
 
