@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Go put your creed into the deed. Nor speak with double tongue._
+#### :books: _We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel._
 
-###### :pencil2: _by Ralph Waldo Emerson_
+###### :pencil2: _by Marcia Fudge_
 
 #
 
