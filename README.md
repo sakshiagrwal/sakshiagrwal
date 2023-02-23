@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel._
+#### :books: _Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance._
 
-###### :pencil2: _by Marcia Fudge_
+###### :pencil2: _by Thomas Carlyle_
 
 #
 
