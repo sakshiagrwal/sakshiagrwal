@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance._
+#### :books: _Genius unrefined resembles a flash of lightning, but wisdom is like the sun._
 
-###### :pencil2: _by Thomas Carlyle_
+###### :pencil2: _by Franz Grillparzer_
 
 #
 
