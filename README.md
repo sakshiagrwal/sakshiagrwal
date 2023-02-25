@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Genius unrefined resembles a flash of lightning, but wisdom is like the sun._
+#### :books: _Anything you really want, you can attain, if you really go after it._
 
-###### :pencil2: _by Franz Grillparzer_
+###### :pencil2: _by Wayne Dyer_
 
 #
 
