@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Anything you really want, you can attain, if you really go after it._
+#### :books: _Friendship, like the immortality of the soul, is too good to be believed._
 
-###### :pencil2: _by Wayne Dyer_
+###### :pencil2: _by Ralph Waldo Emerson_
 
 #
 
