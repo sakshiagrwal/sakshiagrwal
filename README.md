@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Friendship, like the immortality of the soul, is too good to be believed._
+#### :books: _A man is not old as long as he is seeking something._
 
-###### :pencil2: _by Ralph Waldo Emerson_
+###### :pencil2: _by Edmond Rostand_
 
 #
 
