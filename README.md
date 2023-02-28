@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _A man is not old as long as he is seeking something._
+#### :books: _You are never given a wish without also being given the power to make it come true. You may have to work for it, however._
 
-###### :pencil2: _by Edmond Rostand_
+###### :pencil2: _by Richard Bach_
 
 #
 
