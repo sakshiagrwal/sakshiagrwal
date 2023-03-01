@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _You are never given a wish without also being given the power to make it come true. You may have to work for it, however._
+#### :books: _Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?_
 
-###### :pencil2: _by Richard Bach_
+###### :pencil2: _by Friedrich Nietzsche_
 
 #
 
