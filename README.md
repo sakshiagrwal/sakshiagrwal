@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?_
+#### :books: _The least of things with a meaning is worth more in life than the greatest of things without it._
 
-###### :pencil2: _by Friedrich Nietzsche_
+###### :pencil2: _by Carl Jung_
 
 #
 
