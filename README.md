@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _The least of things with a meaning is worth more in life than the greatest of things without it._
+#### :books: _To conquer fear is the beginning of wisdom._
 
-###### :pencil2: _by Carl Jung_
+###### :pencil2: _by Bertrand Russell_
 
 #
 
