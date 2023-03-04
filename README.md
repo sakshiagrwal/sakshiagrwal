@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _To conquer fear is the beginning of wisdom._
+#### :books: _We never live; we are always in the expectation of living._
 
-###### :pencil2: _by Bertrand Russell_
+###### :pencil2: _by Voltaire_
 
 #
 
