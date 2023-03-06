@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _I can't listen to that much Wagner. I start getting the urge to conquer Poland._
+#### :books: _Meaning is not what you start with but what you end up with._
 
-###### :pencil2: _by Woody Allen_
+###### :pencil2: _by Peter Elbow_
 
 #
 
