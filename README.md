@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Meaning is not what you start with but what you end up with._
+#### :books: _The greatest healing therapy is friendship and love._
 
-###### :pencil2: _by Peter Elbow_
+###### :pencil2: _by Hubert Humphrey_
 
 #
 
