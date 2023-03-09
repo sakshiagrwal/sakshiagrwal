@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step._
+#### :books: _Friends are the siblings God never gave us._
 
-###### :pencil2: _by Laozi_
+###### :pencil2: _by Mencius_
 
 #
 
