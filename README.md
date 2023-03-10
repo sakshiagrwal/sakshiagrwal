@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Friends are the siblings God never gave us._
+#### :books: _No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto._
 
-###### :pencil2: _by Mencius_
+###### :pencil2: _by W. Clement Stone_
 
 #
 
