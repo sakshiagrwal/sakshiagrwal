@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto._
+#### :books: _As an organizer I start from where the world is, as it is, not as I would like it to be._
 
-###### :pencil2: _by W. Clement Stone_
+###### :pencil2: _by Saul Alinsky_
 
 #
 
