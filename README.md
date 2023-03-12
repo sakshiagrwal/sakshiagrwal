@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _As an organizer I start from where the world is, as it is, not as I would like it to be._
+#### :books: _Courage is not the absence of fear, but simply moving on with dignity despite that fear._
 
-###### :pencil2: _by Saul Alinsky_
+###### :pencil2: _by Pat Riley_
 
 #
 
