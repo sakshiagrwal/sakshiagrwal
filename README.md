@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Courage is not the absence of fear, but simply moving on with dignity despite that fear._
+#### :books: _Every human being is the author of his own health or disease._
 
-###### :pencil2: _by Pat Riley_
+###### :pencil2: _by Buddha_
 
 #
 
