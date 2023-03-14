@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Every human being is the author of his own health or disease._
+#### :books: _The way we communicate with others and with ourselves ultimately determines the quality of our lives._
 
-###### :pencil2: _by Buddha_
+###### :pencil2: _by Tony Robbins_
 
 #
 
