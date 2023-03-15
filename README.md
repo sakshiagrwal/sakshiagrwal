@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _The way we communicate with others and with ourselves ultimately determines the quality of our lives._
+#### :books: _Mediocrity knows nothing higher than itself, but talent instantly recognizes genius._
 
-###### :pencil2: _by Tony Robbins_
+###### :pencil2: _by Arthur Conan Doyle_
 
 #
 
