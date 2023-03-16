@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Mediocrity knows nothing higher than itself, but talent instantly recognizes genius._
+#### :books: _Nature gave us one tongue and two ears so we could hear twice as much as we speak._
 
-###### :pencil2: _by Arthur Conan Doyle_
+###### :pencil2: _by Epictetus_
 
 #
 
