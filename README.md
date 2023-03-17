@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Nature gave us one tongue and two ears so we could hear twice as much as we speak._
+#### :books: _The best way out is always through._
 
-###### :pencil2: _by Epictetus_
+###### :pencil2: _by Robert Frost_
 
 #
 
