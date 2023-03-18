@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _The best way out is always through._
+#### :books: _The friendship that can cease has never been real._
 
-###### :pencil2: _by Robert Frost_
+###### :pencil2: _by Jerome_
 
 #
 
