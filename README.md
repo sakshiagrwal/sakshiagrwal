@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _The friendship that can cease has never been real._
+#### :books: _When you doubt your power, you give power to your doubt._
 
-###### :pencil2: _by Jerome_
+###### :pencil2: _by Honoré de Balzac_
 
 #
 
