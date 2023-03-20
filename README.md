@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _When you doubt your power, you give power to your doubt._
+#### :books: _Where there is charity and wisdom, there is neither fear nor ignorance._
 
-###### :pencil2: _by Honoré de Balzac_
+###### :pencil2: _by Francis of Assisi_
 
 #
 
