@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Where there is charity and wisdom, there is neither fear nor ignorance._
+#### :books: _To command is to serve, nothing more and nothing less._
 
-###### :pencil2: _by Francis of Assisi_
+###### :pencil2: _by André Malraux_
 
 #
 
