@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _To command is to serve, nothing more and nothing less._
+#### :books: _The best way to pay for a lovely moment is to enjoy it._
 
-###### :pencil2: _by André Malraux_
+###### :pencil2: _by Richard Bach_
 
 #
 
