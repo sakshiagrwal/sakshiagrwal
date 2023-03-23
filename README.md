@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _The best way to pay for a lovely moment is to enjoy it._
+#### :books: _Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable._
 
-###### :pencil2: _by Richard Bach_
+###### :pencil2: _by Carl Jung_
 
 #
 
