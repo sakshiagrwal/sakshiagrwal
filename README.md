@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable._
+#### :books: _Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price we'll have to pay to achieve that goal, or any goal._
 
-###### :pencil2: _by Carl Jung_
+###### :pencil2: _by Vince Lombardi_
 
 #
 
