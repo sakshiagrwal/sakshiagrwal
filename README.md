@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price we'll have to pay to achieve that goal, or any goal._
+#### :books: _To acquire knowledge, one must study; but to acquire wisdom, one must observe._
 
-###### :pencil2: _by Vince Lombardi_
+###### :pencil2: _by Marilyn vos Savant_
 
 #
 
