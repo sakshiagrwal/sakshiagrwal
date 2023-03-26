@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _To acquire knowledge, one must study; but to acquire wisdom, one must observe._
+#### :books: _Do good by stealth, and blush to find it fame._
 
-###### :pencil2: _by Marilyn vos Savant_
+###### :pencil2: _by Alexander Pope_
 
 #
 
