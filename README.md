@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Do good by stealth, and blush to find it fame._
+#### :books: _So much technology, so little talent._
 
-###### :pencil2: _by Alexander Pope_
+###### :pencil2: _by Vernor Vinge_
 
 #
 
