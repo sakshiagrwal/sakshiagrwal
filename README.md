@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _So much technology, so little talent._
+#### :books: _I believe in one thing only, the power of human will._
 
-###### :pencil2: _by Vernor Vinge_
+###### :pencil2: _by Joseph Stalin_
 
 #
 
