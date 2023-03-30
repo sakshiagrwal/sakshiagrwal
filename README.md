@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _In all chaos there is a cosmos, in all disorder a secret order._
+#### :books: _There is no greater harm than that of time wasted._
 
-###### :pencil2: _by Carl Jung_
+###### :pencil2: _by Michelangelo_
 
 #
 
