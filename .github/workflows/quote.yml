@@ -8,15 +8,30 @@ on:
 jobs:
   update_quote:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Update Quote
-        run: python .github/scripts/quote.py
+      - name: Get Quote
+        id: quote
+        run: |
+          quote_data=$(curl -s "https://api.quotable.io/random")
+          quote=$(echo "$quote_data" | jq -r '.content')
+          author=$(echo "$quote_data" | jq -r '.author')
+          echo "AUTHOR=$author" >> $GITHUB_ENV
+          echo "QUOTE=$quote" >> $GITHUB_ENV
 
-      - name: Commit and Push Changes
+      - name: Update README
+        run: |
+          echo "Quote: ${{ env.QUOTE }}"
+          echo "Author: ${{ env.AUTHOR }}"
+          sed -i "13s/.*/#### :books: _${{ env.QUOTE }}_/" README.md
+          sed -i "15s/.*/###### :pencil2: _by ${{ env.AUTHOR }}_/" README.md
+
+      - name: Commit Changes
         run: |
           git config --local user.email "81718060+sakshiagrwal@users.noreply.github.com"
           git config --local user.name "Sakshi Aggarwal"
