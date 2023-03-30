@@ -32,7 +32,7 @@ jobs:
           git config --local user.email "81718060+sakshiagrwal@users.noreply.github.com"
           git config --local user.name "Sakshi Aggarwal"
           git add README.md
-          git commit -s -m "Update quote" -m "This commit updates the quote in the README file."
+          git commit -s -m "Update quote" -m "This commit updates the quote and author in the README file."
 
       - name: Push changes
         run: git push origin main
