@@ -21,15 +21,15 @@ jobs:
           quote_data=$(curl -s "https://api.quotable.io/random")
           quote=$(echo "$quote_data" | jq -r '.content')
           author=$(echo "$quote_data" | jq -r '.author')
-          echo "::set-output name=author::$author"
-          echo "::set-output name=quote::$quote"
+          echo "AUTHOR=$author" >> $GITHUB_ENV
+          echo "QUOTE=$quote" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          echo "Quote: ${{ steps.quote.outputs.quote }}"
-          echo "Author: ${{ steps.quote.outputs.author }}"
-          sed -i "13s/.*/#### :books: _${{ steps.quote.outputs.quote }}_/" README.md
-          sed -i "15s/.*/###### :pencil2: _by ${{ steps.quote.outputs.author }}_/" README.md
+          echo "Quote: ${{ env.QUOTE }}"
+          echo "Author: ${{ env.AUTHOR }}"
+          sed -i "13s/.*/#### :books: _${{ env.QUOTE }}_/" README.md
+          sed -i "15s/.*/###### :pencil2: _by ${{ env.AUTHOR }}_/" README.md
 
       - name: Commit Changes
         run: |
