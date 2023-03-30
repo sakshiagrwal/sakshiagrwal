@@ -12,29 +12,27 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout Repo
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Get Quote
+      - name: Get Random Quote
         id: quote
         run: |
           quote_data=$(curl -s "https://api.quotable.io/random")
-          quote=$(echo "$quote_data" | jq -r '.content')
-          author=$(echo "$quote_data" | jq -r '.author')
-          echo "AUTHOR=$author" >> $GITHUB_ENV
-          echo "QUOTE=$quote" >> $GITHUB_ENV
+          echo "QUOTE=$(echo "$quote_data" | jq -r '.content')" >> $GITHUB_ENV
+          echo "AUTHOR=$(echo "$quote_data" | jq -r '.author')" >> $GITHUB_ENV
 
-      - name: Update README
+      - name: Update README File
         run: |
-          echo "Quote: ${{ env.QUOTE }}"
-          echo "Author: ${{ env.AUTHOR }}"
-          sed -i "13s/.*/#### :books: _${{ env.QUOTE }}_/" README.md
-          sed -i "15s/.*/###### :pencil2: _by ${{ env.AUTHOR }}_/" README.md
+          sed -i "s/^#### :books: .*/#### :books: _${QUOTE}_/" README.md
+          sed -i "s/^###### :pencil2: .*/###### :pencil2: _by ${AUTHOR}_/" README.md
 
       - name: Commit Changes
         run: |
           git config --local user.email "81718060+sakshiagrwal@users.noreply.github.com"
           git config --local user.name "Sakshi Aggarwal"
           git add README.md
-          git commit -s -m "Updating quote"
-          git push
+          git commit -s -m "Update quote" -m "This commit updates the quote in the README file."
+
+      - name: Push changes
+        run: git push origin main
