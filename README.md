@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _There is no greater harm than that of time wasted._
+#### :books: _True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions._
 
-###### :pencil2: _by Michelangelo_
+###### :pencil2: _by Joseph Addison_
 
 #
 
