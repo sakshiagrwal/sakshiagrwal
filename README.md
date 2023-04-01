@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions._
+#### :books: _Let my skin and sinews and bones dry up, together with all the flesh and blood of my body! I welcome it! But I will not move from this spot until I have attained the supreme and final wisdom._
 
-###### :pencil2: _by Joseph Addison_
+###### :pencil2: _by The Buddha_
 
 #
 
