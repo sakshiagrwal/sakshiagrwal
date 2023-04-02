@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Let my skin and sinews and bones dry up, together with all the flesh and blood of my body! I welcome it! But I will not move from this spot until I have attained the supreme and final wisdom._
+#### :books: _The universe is full of magical things, patiently waiting for our wits to grow sharper._
 
-###### :pencil2: _by The Buddha_
+###### :pencil2: _by Eden Phillpotts_
 
 #
 
