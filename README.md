@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _The universe is full of magical things, patiently waiting for our wits to grow sharper._
+#### :books: _There is never enough time to do everything, but there is always enough time to do the most important thing._
 
-###### :pencil2: _by Eden Phillpotts_
+###### :pencil2: _by Brian Tracy_
 
 #
 
