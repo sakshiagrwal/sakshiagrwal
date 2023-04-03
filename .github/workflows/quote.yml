@@ -2,7 +2,7 @@ name: Update Quote
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 0,1,3,4,6" # Run at midnight (00:00) every day, except on Tuesdays and Fridays.
   workflow_dispatch:
 
 jobs:
@@ -32,7 +32,7 @@ jobs:
           git config --local user.email "81718060+sakshiagrwal@users.noreply.github.com"
           git config --local user.name "Sakshi Aggarwal"
           git add README.md
-          git commit -s -m "Update quote" -m "This commit updates the quote in the README file."
+          git commit -s -m "Update quote"
 
       - name: Push changes
         run: git push origin main
