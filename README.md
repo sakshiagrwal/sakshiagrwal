@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _There is never enough time to do everything, but there is always enough time to do the most important thing._
+#### :books: _Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do._
 
-###### :pencil2: _by Brian Tracy_
+###### :pencil2: _by Mark Twain_
 
 #
 
