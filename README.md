@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do._
+#### :books: _A man cannot be said to succeed in this life who does not satisfy one friend._
 
-###### :pencil2: _by Mark Twain_
+###### :pencil2: _by Henry David Thoreau_
 
 #
 
