@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _A man cannot be said to succeed in this life who does not satisfy one friend._
+#### :books: _Friendship is like money, easier made than kept._
 
-###### :pencil2: _by Henry David Thoreau_
+###### :pencil2: _by Samuel Butler_
 
 #
 
