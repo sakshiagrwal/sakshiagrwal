@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _All perceiving is also thinking, all reasoning is also intuition, all observation is also invention._
+#### 📚 _All wisdom does not reside in Delhi._
 
-###### :pencil2: _by Rudolf Arnheim_
+###### ✏️ _by P. Chidambaram_
 
 #
 
