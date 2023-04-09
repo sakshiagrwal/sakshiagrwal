@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### :books: _Friendship is like money, easier made than kept._
+#### :books: _All perceiving is also thinking, all reasoning is also intuition, all observation is also invention._
 
-###### :pencil2: _by Samuel Butler_
+###### :pencil2: _by Rudolf Arnheim_
 
 #
 
