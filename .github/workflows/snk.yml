@@ -1,9 +1,14 @@
 name: Generate Animation
 
 on:
+  # Run automatically every 24 hours.
   schedule:
-    - cron: "0 0 1 * *"
+    - cron: "0 */24 * * *"
+
+  # Allows to manually run the job at any time.
   workflow_dispatch:
+
+  # Run on every push on the main branch.
   push:
     branches:
       - main
@@ -13,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate github-snake.svg
+      - name: Generate Animation
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -21,7 +26,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push github-snake.svg to the output branch
+      - name: Push Animation to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
