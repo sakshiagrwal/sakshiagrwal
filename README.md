@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _All wisdom does not reside in Delhi._
+#### 📚 _In romance, we feel the need to zoom in and expound on our partner's foibles in intimate detail; in friendship, we tend to do the opposite, avoiding confrontation through fear, lethargy or both._
 
-###### ✏️ _by P. Chidambaram_
+###### ✏️ _by Mariella Frostrup_
 
 #
 
