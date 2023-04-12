@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _In romance, we feel the need to zoom in and expound on our partner's foibles in intimate detail; in friendship, we tend to do the opposite, avoiding confrontation through fear, lethargy or both._
+#### 📚 _A successful person is one who can lay a firm foundation with the bricks that others throw at him or her._
 
-###### ✏️ _by Mariella Frostrup_
+###### ✏️ _by David Brinkley_
 
 #
 
