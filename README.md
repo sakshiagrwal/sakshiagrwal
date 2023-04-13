@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _A successful person is one who can lay a firm foundation with the bricks that others throw at him or her._
+#### 📚 _Difficulties are things that show a person what they are._
 
-###### ✏️ _by David Brinkley_
+###### ✏️ _by Epictetus_
 
 #
 
