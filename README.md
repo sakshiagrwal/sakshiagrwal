@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _Difficulties are things that show a person what they are._
+#### 📚 _Friendship is one mind in two bodies._
 
-###### ✏️ _by Epictetus_
+###### ✏️ _by Mencius_
 
 #
 
