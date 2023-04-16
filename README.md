@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _Friendship is one mind in two bodies._
+#### 📚 _It is impossible to love and to be wise._
 
-###### ✏️ _by Mencius_
+###### ✏️ _by Francis Bacon_
 
 #
 
