@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _It is impossible to love and to be wise._
+#### 📚 _You win the victory when you yield to friends._
 
-###### ✏️ _by Francis Bacon_
+###### ✏️ _by Sophocles_
 
 #
 
