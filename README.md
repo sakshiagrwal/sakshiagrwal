@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _You win the victory when you yield to friends._
+#### 📚 _The bird of paradise alights only upon the hand that does not grasp._
 
-###### ✏️ _by Sophocles_
+###### ✏️ _by John Berry_
 
 #
 
