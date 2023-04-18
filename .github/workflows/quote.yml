@@ -2,8 +2,8 @@ name: Update Quote
 
 on:
   schedule:
-    # This workflow runs at 00:00 (UTC time) every day, except for Tuesdays and Fridays.
-    - cron: "0 0 * * 0,1,3,4,6"
+    # Run automatically every 24 hours.
+    - cron: "0 */24 * * *"
   workflow_dispatch:
   push:
     branches:
