@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _The bird of paradise alights only upon the hand that does not grasp._
+#### 📚 _To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else._
 
-###### ✏️ _by John Berry_
+###### ✏️ _by Dalai Lama_
 
 #
 
