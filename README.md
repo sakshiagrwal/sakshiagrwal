@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else._
+#### 📚 _Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more_
 
-###### ✏️ _by Dalai Lama_
+###### ✏️ _by Tony Robbins_
 
 #
 
