@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more_
+#### 📚 _Great minds discuss ideas; average minds discuss events; small minds discuss people._
 
-###### ✏️ _by Tony Robbins_
+###### ✏️ _by Eleanor Roosevelt_
 
 #
 
