@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _Great minds discuss ideas; average minds discuss events; small minds discuss people._
+#### 📚 _Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness._
 
-###### ✏️ _by Eleanor Roosevelt_
+###### ✏️ _by Rumi_
 
 #
 
