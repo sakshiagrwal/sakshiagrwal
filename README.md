@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness._
+#### 📚 _Don't leave a stone unturned. It's always something, to know you have done the most you could._
 
-###### ✏️ _by Rumi_
+###### ✏️ _by Charles Dickens_
 
 #
 
