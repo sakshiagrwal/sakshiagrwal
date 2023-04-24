@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _Don't leave a stone unturned. It's always something, to know you have done the most you could._
+#### 📚 _If the stars should appear but one night every thousand years how man would marvel and adore._
 
-###### ✏️ _by Charles Dickens_
+###### ✏️ _by Ralph Waldo Emerson_
 
 #
 
