@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _If the stars should appear but one night every thousand years how man would marvel and adore._
+#### 📚 _To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else._
 
-###### ✏️ _by Ralph Waldo Emerson_
+###### ✏️ _by Dalai Lama_
 
 #
 
