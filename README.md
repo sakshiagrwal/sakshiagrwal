@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else._
+#### 📚 _Love has no age, no limit; and no death._
 
-###### ✏️ _by Dalai Lama_
+###### ✏️ _by John Galsworthy_
 
 #
 
