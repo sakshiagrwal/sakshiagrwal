@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _Love has no age, no limit; and no death._
+#### 📚 _Belief consists in accepting the affirmations of the soul; Unbelief, in denying them._
 
-###### ✏️ _by John Galsworthy_
+###### ✏️ _by Ralph Waldo Emerson_
 
 #
 
