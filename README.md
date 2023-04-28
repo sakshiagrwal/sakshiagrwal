@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _Belief consists in accepting the affirmations of the soul; Unbelief, in denying them._
+#### 📚 _I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain._
 
-###### ✏️ _by Ralph Waldo Emerson_
+###### ✏️ _by Oprah Winfrey_
 
 #
 
