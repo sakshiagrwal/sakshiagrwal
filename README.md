@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain._
+#### 📚 _All our knowledge has its origins in our perceptions._
 
-###### ✏️ _by Oprah Winfrey_
+###### ✏️ _by Leonardo da Vinci_
 
 #
 
