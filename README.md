@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _All our knowledge has its origins in our perceptions._
+#### 📚 _If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others._
 
-###### ✏️ _by Leonardo da Vinci_
+###### ✏️ _by Anne Lindbergh_
 
 #
 
