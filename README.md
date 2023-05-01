@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others._
+#### 📚 _Positive thinking will let you do everything better than negative thinking will._
 
-###### ✏️ _by Anne Lindbergh_
+###### ✏️ _by Zig Ziglar_
 
 #
 
