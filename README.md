@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _Positive thinking will let you do everything better than negative thinking will._
+#### 📚 _The only real mistake is the one from which we learn nothing._
 
-###### ✏️ _by Zig Ziglar_
+###### ✏️ _by John Powell_
 
 #
 
