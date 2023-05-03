@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _The only real mistake is the one from which we learn nothing._
+#### 📚 _I'm not in this world to live up to your expectations and you're not in this world to live up to mine._
 
-###### ✏️ _by John Powell_
+###### ✏️ _by Bruce Lee_
 
 #
 
