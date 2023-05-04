@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _I'm not in this world to live up to your expectations and you're not in this world to live up to mine._
+#### 📚 _Chaos and Order are not enemies, only opposites._
 
-###### ✏️ _by Bruce Lee_
+###### ✏️ _by Richard Garriott_
 
 #
 
