@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _Chaos and Order are not enemies, only opposites._
+#### 📚 _Knowledge rests not upon truth alone, but upon error also._
 
-###### ✏️ _by Richard Garriott_
+###### ✏️ _by Carl Jung_
 
 #
 
