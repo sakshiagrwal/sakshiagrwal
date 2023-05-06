@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _Knowledge rests not upon truth alone, but upon error also._
+#### 📚 _Mistakes are always forgivable, if one has the courage to admit them._
 
-###### ✏️ _by Carl Jung_
+###### ✏️ _by Bruce Lee_
 
 #
 
