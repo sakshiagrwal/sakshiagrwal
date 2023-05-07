@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _Mistakes are always forgivable, if one has the courage to admit them._
+#### 📚 _Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk._
 
-###### ✏️ _by Bruce Lee_
+###### ✏️ _by Doug Larson_
 
 #
 
