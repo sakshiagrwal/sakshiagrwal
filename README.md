@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk._
+#### 📚 _I cannot always control what goes on outside. But I can always control what goes on inside._
 
-###### ✏️ _by Doug Larson_
+###### ✏️ _by Wayne Dyer_
 
 #
 
