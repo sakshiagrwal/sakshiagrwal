@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _I cannot always control what goes on outside. But I can always control what goes on inside._
+#### 📚 _Don't turn away from possible futures before you're certain you don't have anything to learn from them._
 
-###### ✏️ _by Wayne Dyer_
+###### ✏️ _by Richard Bach_
 
 #
 
