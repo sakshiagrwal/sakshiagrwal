@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _Don't turn away from possible futures before you're certain you don't have anything to learn from them._
+#### 📚 _Things do not change; we change._
 
-###### ✏️ _by Richard Bach_
+###### ✏️ _by Henry David Thoreau_
 
 #
 
