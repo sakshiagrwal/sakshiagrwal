@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _Things do not change; we change._
+#### 📚 _I violated the Noah rule: Predicting rain doesn't count; building arks does._
 
-###### ✏️ _by Henry David Thoreau_
+###### ✏️ _by Warren Buffett_
 
 #
 
