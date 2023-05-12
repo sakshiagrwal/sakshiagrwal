@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _I violated the Noah rule: Predicting rain doesn't count; building arks does._
+#### 📚 _Never mistake activity for achievement._
 
-###### ✏️ _by Warren Buffett_
+###### ✏️ _by John Wooden_
 
 #
 
