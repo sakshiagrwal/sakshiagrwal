@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _Never mistake activity for achievement._
+#### 📚 _It is the quality of our work which will please God, not the quantity._
 
-###### ✏️ _by John Wooden_
+###### ✏️ _by Mahatma Gandhi_
 
 #
 
