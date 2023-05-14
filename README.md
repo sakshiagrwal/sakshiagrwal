@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _It is the quality of our work which will please God, not the quantity._
+#### 📚 _So long as a person is capable of self-renewal they are a living being._
 
-###### ✏️ _by Mahatma Gandhi_
+###### ✏️ _by Henri-Frédéric Amiel_
 
 #
 
