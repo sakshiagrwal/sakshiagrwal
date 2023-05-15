@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _So long as a person is capable of self-renewal they are a living being._
+#### 📚 _There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world._
 
-###### ✏️ _by Henri-Frédéric Amiel_
+###### ✏️ _by Robert Louis Stevenson_
 
 #
 
