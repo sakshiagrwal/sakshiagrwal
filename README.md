@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world._
+#### 📚 _No person is your friend who demands your silence or denies your right to grow._
 
-###### ✏️ _by Robert Louis Stevenson_
+###### ✏️ _by Alice Walker_
 
 #
 
