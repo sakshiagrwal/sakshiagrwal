@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _No person is your friend who demands your silence or denies your right to grow._
+#### 📚 _The only limit to our realization of tomorrow will be our doubts of today._
 
-###### ✏️ _by Alice Walker_
+###### ✏️ _by Franklin D. Roosevelt_
 
 #
 
