@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _The only limit to our realization of tomorrow will be our doubts of today._
+#### 📚 _We gain the strength of the temptation we resist._
 
-###### ✏️ _by Franklin D. Roosevelt_
+###### ✏️ _by Ralph Waldo Emerson_
 
 #
 
