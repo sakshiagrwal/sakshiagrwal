@@ -10,9 +10,9 @@ My GitHub profile is where I share my projects and learning experiences. I welco
 
 #
 
-#### 📚 _We gain the strength of the temptation we resist._
+#### 📚 _To conquer fear is the beginning of wisdom._
 
-###### ✏️ _by Ralph Waldo Emerson_
+###### ✏️ _by Bertrand Russell_
 
 #
 
