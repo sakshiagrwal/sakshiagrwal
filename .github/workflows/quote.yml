@@ -1,10 +1,14 @@
 name: Update Quote
 
 on:
+  # Run automatically every 24 hours.
   schedule:
-    # Run automatically every 24 hours.
     - cron: "0 */24 * * *"
+
+  # Allows to manually run the job at any time.
   workflow_dispatch:
+
+  # Run on every push on the main branch.
   push:
     branches:
       - main
@@ -28,8 +32,8 @@ jobs:
 
       - name: Update README File
         run: |
-          sed -i "13s|.*|#### 📚 _${QUOTE}_|" README.md
-          sed -i "15s|.*|###### ✏️ _by ${AUTHOR}_|" README.md
+          sed -i "3s|.*|#### 📚 _${QUOTE}_|" README.md
+          sed -i "5s|.*|###### ✏️ _by ${AUTHOR}_|" README.md
 
       - name: Commit Changes
         run: |
