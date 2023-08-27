@@ -1,8 +1,8 @@
 ## Hi there! :wave:
 
-#### 📚 _It seemed the world was divided into good and bad people. The good ones slept better... while the bad ones seemed to enjoy the waking hours much more._
+#### 📚 _Life is a learning experience, only if you learn._
 
-###### ✏️ _by Woody Allen_
+###### ✏️ _by Yogi Berra_
 
 #
 
