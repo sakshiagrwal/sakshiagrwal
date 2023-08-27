@@ -1,8 +1,8 @@
 ## Hi there! :wave:
 
-#### 📚 _To conquer fear is the beginning of wisdom._
+#### 📚 _It seemed the world was divided into good and bad people. The good ones slept better... while the bad ones seemed to enjoy the waking hours much more._
 
-###### ✏️ _by Bertrand Russell_
+###### ✏️ _by Woody Allen_
 
 #
 
