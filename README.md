@@ -1,8 +1,8 @@
 <h4>
-  💭 A goal is a dream with a deadline.
+  💭 We must never forget that it is through our actions, words, and thoughts that we have a choice.
   <h6 align="right">
     <i>
-      ✍️ by Napoleon Hill
+      ✍️ by Sogyal Rinpoche
     </i>
   </h6>
 </h4>
