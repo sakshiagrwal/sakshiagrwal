@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 We must never forget that it is through our actions, words, and thoughts that we have a choice.
+  💭 Not all those who wander are lost.
   <h6 align="right">
     <i>
-      ✍️ by Sogyal Rinpoche
+      ✍️ by J. R. R. Tolkien
     </i>
   </h6>
 </h4>
