@@ -1,8 +1,11 @@
-## Hi there! :wave:
-
-#### 📚 _A goal is a dream with a deadline._
-
-###### ✏️ _by Napoleon Hill_
+<h4>
+  💭 A goal is a dream with a deadline.
+  <h6 align="right">
+    <i>
+      ✍️ by Napoleon Hill
+    </i>
+  </h6>
+</h4>
 
 #
 

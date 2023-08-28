@@ -32,8 +32,8 @@ jobs:
 
       - name: Update README File
         run: |
-          sed -i "3s|.*|#### 📚 _${QUOTE}_|" README.md
-          sed -i "5s|.*|###### ✏️ _by ${AUTHOR}_|" README.md
+          sed -i "2s|.*|  💭 ${QUOTE}|" README.md
+          sed -i "5s|.*|      ✍️ by ${AUTHOR}|" README.md
 
       - name: Commit Changes
         run: |
