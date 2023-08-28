@@ -1,8 +1,8 @@
 ## Hi there! :wave:
 
-#### 📚 _Life is a learning experience, only if you learn._
+#### 📚 _A goal is a dream with a deadline._
 
-###### ✏️ _by Yogi Berra_
+###### ✏️ _by Napoleon Hill_
 
 #
 
