@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Not all those who wander are lost.
+  💭 Meaning is not what you start with but what you end up with.
   <h6 align="right">
     <i>
-      ✍️ by J. R. R. Tolkien
+      ✍️ by Peter Elbow
     </i>
   </h6>
 </h4>
