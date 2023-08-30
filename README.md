@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Meaning is not what you start with but what you end up with.
+  💭 If opportunity doesn't knock, build a door.
   <h6 align="right">
     <i>
-      ✍️ by Peter Elbow
+      ✍️ by Milton Berle
     </i>
   </h6>
 </h4>
