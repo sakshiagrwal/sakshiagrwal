@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 If opportunity doesn't knock, build a door.
+  💭 Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
   <h6 align="right">
     <i>
-      ✍️ by Milton Berle
+      ✍️ by Archimedes
     </i>
   </h6>
 </h4>
