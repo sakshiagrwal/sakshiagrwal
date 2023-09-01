@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
+  💭 Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
   <h6 align="right">
     <i>
-      ✍️ by Archimedes
+      ✍️ by Albert Einstein
     </i>
   </h6>
 </h4>
