@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+  💭 When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.
   <h6 align="right">
     <i>
-      ✍️ by Albert Einstein
+      ✍️ by W. Clement Stone
     </i>
   </h6>
 </h4>
