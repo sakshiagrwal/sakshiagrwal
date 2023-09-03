@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.
+  💭 O, what a tangled web we weave when first we practice to deceive!
   <h6 align="right">
     <i>
-      ✍️ by W. Clement Stone
+      ✍️ by Walter Scott
     </i>
   </h6>
 </h4>
