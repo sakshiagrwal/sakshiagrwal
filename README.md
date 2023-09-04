@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 O, what a tangled web we weave when first we practice to deceive!
+  💭 You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.
   <h6 align="right">
     <i>
-      ✍️ by Walter Scott
+      ✍️ by John Lennon
     </i>
   </h6>
 </h4>
