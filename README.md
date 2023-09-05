@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.
+  💭 I cannot always control what goes on outside. But I can always control what goes on inside.
   <h6 align="right">
     <i>
-      ✍️ by John Lennon
+      ✍️ by Wayne Dyer
     </i>
   </h6>
 </h4>
