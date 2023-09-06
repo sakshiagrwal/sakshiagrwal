@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 I cannot always control what goes on outside. But I can always control what goes on inside.
+  💭 The more sand that has escaped from the hourglass of our life, the clearer we should see through it.
   <h6 align="right">
     <i>
-      ✍️ by Wayne Dyer
+      ✍️ by Jean-Paul Sartre
     </i>
   </h6>
 </h4>
