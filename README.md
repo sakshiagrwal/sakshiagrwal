@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The more sand that has escaped from the hourglass of our life, the clearer we should see through it.
+  💭 However rare true love may be, it is less so than true friendship.
   <h6 align="right">
     <i>
-      ✍️ by Jean-Paul Sartre
+      ✍️ by François de La Rochefoucauld
     </i>
   </h6>
 </h4>
