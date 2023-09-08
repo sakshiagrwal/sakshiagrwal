@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 However rare true love may be, it is less so than true friendship.
+  💭 The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.
   <h6 align="right">
     <i>
-      ✍️ by François de La Rochefoucauld
+      ✍️ by Honoré de Balzac
     </i>
   </h6>
 </h4>
