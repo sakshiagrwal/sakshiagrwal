@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.
+  💭 It's not what you look at that matters, it's what you see.
   <h6 align="right">
     <i>
-      ✍️ by Honoré de Balzac
+      ✍️ by Henry David Thoreau
     </i>
   </h6>
 </h4>
