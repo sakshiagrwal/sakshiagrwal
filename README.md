@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 It's not what you look at that matters, it's what you see.
+  💭 Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that.
   <h6 align="right">
     <i>
-      ✍️ by Henry David Thoreau
+      ✍️ by The Buddha
     </i>
   </h6>
 </h4>
