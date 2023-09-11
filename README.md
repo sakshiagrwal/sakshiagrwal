@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that.
+  💭 True friendship ought never to conceal what it thinks.
   <h6 align="right">
     <i>
-      ✍️ by The Buddha
+      ✍️ by Jerome
     </i>
   </h6>
 </h4>
