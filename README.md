@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 True friendship ought never to conceal what it thinks.
+  💭 Start with what is right rather than what is acceptable.
   <h6 align="right">
     <i>
-      ✍️ by Jerome
+      ✍️ by Franz Kafka
     </i>
   </h6>
 </h4>
