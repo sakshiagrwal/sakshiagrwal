@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Start with what is right rather than what is acceptable.
+  💭 Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
   <h6 align="right">
     <i>
-      ✍️ by Franz Kafka
+      ✍️ by Jane Addams
     </i>
   </h6>
 </h4>
