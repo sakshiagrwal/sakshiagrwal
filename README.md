@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
+  💭 To me, it doesn't matter how good you are. Sport is all about playing and competing. Whatever you do in cricket and in sport, enjoy it, be positive and try to win.
   <h6 align="right">
     <i>
-      ✍️ by Jane Addams
+      ✍️ by Ian Botham
     </i>
   </h6>
 </h4>
