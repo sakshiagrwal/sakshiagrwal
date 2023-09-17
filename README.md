@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.
+  💭 Never explain - your friends do not need it and your enemies will not believe you anyway.
   <h6 align="right">
     <i>
-      ✍️ by Johann Kaspar Lavater
+      ✍️ by Elbert Hubbard
     </i>
   </h6>
 </h4>
