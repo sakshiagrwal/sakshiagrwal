@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Although there may be tragedy in your life, there's always a possibility to triumph. It doesn't matter who you are, where you come from. The ability to triumph begins with you. Always.
+  💭 Many of life's failures are people who did not realize how close they were to success when they gave up.
   <h6 align="right">
     <i>
-      ✍️ by Oprah Winfrey
+      ✍️ by Thomas Edison
     </i>
   </h6>
 </h4>
