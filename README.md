@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Many of life's failures are people who did not realize how close they were to success when they gave up.
+  💭 You can't choose up sides on a round world.
   <h6 align="right">
     <i>
-      ✍️ by Thomas Edison
+      ✍️ by Wayne Dyer
     </i>
   </h6>
 </h4>
