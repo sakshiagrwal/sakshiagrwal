@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 You can't choose up sides on a round world.
+  💭 The greatest way to live with honor in this world is to be what we pretend to be.
   <h6 align="right">
     <i>
-      ✍️ by Wayne Dyer
+      ✍️ by Socrates
     </i>
   </h6>
 </h4>
