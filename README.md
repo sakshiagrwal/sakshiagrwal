@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The greatest way to live with honor in this world is to be what we pretend to be.
+  💭 Never interrupt your enemy when he is making a mistake.
   <h6 align="right">
     <i>
-      ✍️ by Socrates
+      ✍️ by Napoleon
     </i>
   </h6>
 </h4>
