@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Technology frightens me to death. It's designed by engineers to impress other engineers. And they always come with instruction booklets that are written by engineers for other engineers — which is why almost no technology ever works.
+  💭 A single rose can be my garden... a single friend, my world.
   <h6 align="right">
     <i>
-      ✍️ by John Cleese
+      ✍️ by Leo Buscaglia
     </i>
   </h6>
 </h4>
