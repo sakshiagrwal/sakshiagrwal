@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 A single rose can be my garden... a single friend, my world.
+  💭 Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.
   <h6 align="right">
     <i>
-      ✍️ by Leo Buscaglia
+      ✍️ by Laozi
     </i>
   </h6>
 </h4>
