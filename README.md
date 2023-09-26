@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.
+  💭 Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.
   <h6 align="right">
     <i>
-      ✍️ by Laozi
+      ✍️ by Henry Wadsworth Longfellow
     </i>
   </h6>
 </h4>
