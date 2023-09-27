@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.
+  💭 No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.
   <h6 align="right">
     <i>
-      ✍️ by Henry Wadsworth Longfellow
+      ✍️ by Helen Keller
     </i>
   </h6>
 </h4>
