@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.
+  💭 In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.
   <h6 align="right">
     <i>
-      ✍️ by Helen Keller
+      ✍️ by Eric Hoffer
     </i>
   </h6>
 </h4>
