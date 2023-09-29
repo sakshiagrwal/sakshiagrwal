@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.
+  💭 What worries you masters you.
   <h6 align="right">
     <i>
-      ✍️ by Eric Hoffer
+      ✍️ by Haddon Robinson
     </i>
   </h6>
 </h4>
