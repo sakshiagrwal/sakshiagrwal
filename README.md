@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 If you are bitter, you are like a dry leaf that you can just squash, and you can get blown away by the wind. There is much more wisdom in forgiveness.
+  💭 Sometimes I am happy and sometimes not. I am, after all, a human being, you know. And I am glad that we are sometimes happy and sometimes not. You get your wisdom working by having different emotions.
   <h6 align="right">
     <i>
-      ✍️ by Vusi Mahlasela
+      ✍️ by Yoko Ono
     </i>
   </h6>
 </h4>
