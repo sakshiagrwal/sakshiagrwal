@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Sometimes I am happy and sometimes not. I am, after all, a human being, you know. And I am glad that we are sometimes happy and sometimes not. You get your wisdom working by having different emotions.
+  💭 If a man does not make new acquaintances as he advances through life, he will soon find himself left alone. A man, sir, should keep his friendship in a constant repair.
   <h6 align="right">
     <i>
-      ✍️ by Yoko Ono
+      ✍️ by Samuel Johnson
     </i>
   </h6>
 </h4>
