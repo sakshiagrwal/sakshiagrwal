@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 If a man does not make new acquaintances as he advances through life, he will soon find himself left alone. A man, sir, should keep his friendship in a constant repair.
+  💭 With the new day comes new strength and new thoughts.
   <h6 align="right">
     <i>
-      ✍️ by Samuel Johnson
+      ✍️ by Eleanor Roosevelt
     </i>
   </h6>
 </h4>
