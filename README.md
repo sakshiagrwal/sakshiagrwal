@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 With the new day comes new strength and new thoughts.
+  💭 Let there be no purpose in friendship save the deepening of the spirit.
   <h6 align="right">
     <i>
-      ✍️ by Eleanor Roosevelt
+      ✍️ by Kahlil Gibran
     </i>
   </h6>
 </h4>
