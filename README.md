@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Let there be no purpose in friendship save the deepening of the spirit.
+  💭 When your desires are strong enough you will appear to possess superhuman powers to achieve.
   <h6 align="right">
     <i>
-      ✍️ by Kahlil Gibran
+      ✍️ by Napoleon Hill
     </i>
   </h6>
 </h4>
