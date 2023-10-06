@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 When your desires are strong enough you will appear to possess superhuman powers to achieve.
+  💭 Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
   <h6 align="right">
     <i>
-      ✍️ by Napoleon Hill
+      ✍️ by William Arthur Ward
     </i>
   </h6>
 </h4>
