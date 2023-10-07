@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
+  💭 Consult not your fears but your hopes and your dreams. Think not about your frustrations, but about your unfulfilled potential. Concern yourself not with what you tried and failed in, but with what it is still possible for you to do.
   <h6 align="right">
     <i>
-      ✍️ by William Arthur Ward
+      ✍️ by Pope John XXIII
     </i>
   </h6>
 </h4>
