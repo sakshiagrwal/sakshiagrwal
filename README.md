@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 A single lamp may light hundreds of thousands of lamps without itself being diminished.
+  💭 The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion.
   <h6 align="right">
     <i>
-      ✍️ by The Buddha
+      ✍️ by Dwight D. Eisenhower
     </i>
   </h6>
 </h4>
