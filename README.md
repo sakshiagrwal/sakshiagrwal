@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion.
+  💭 Ability will never catch up with the demand for it.
   <h6 align="right">
     <i>
-      ✍️ by Dwight D. Eisenhower
+      ✍️ by Confucius
     </i>
   </h6>
 </h4>
