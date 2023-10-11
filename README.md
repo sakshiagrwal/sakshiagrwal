@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Ability will never catch up with the demand for it.
+  💭 The more you like yourself, the less you are like anyone else, which makes you unique.
   <h6 align="right">
     <i>
-      ✍️ by Confucius
+      ✍️ by Walt Disney
     </i>
   </h6>
 </h4>
