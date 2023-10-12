@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The more you like yourself, the less you are like anyone else, which makes you unique.
+  💭 This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature.
   <h6 align="right">
     <i>
-      ✍️ by Walt Disney
+      ✍️ by Don DeLillo
     </i>
   </h6>
 </h4>
