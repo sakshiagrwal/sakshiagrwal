@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature.
+  💭 Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.
   <h6 align="right">
     <i>
-      ✍️ by Don DeLillo
+      ✍️ by Richard Bach
     </i>
   </h6>
 </h4>
