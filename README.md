@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.
+  💭 Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.
   <h6 align="right">
     <i>
-      ✍️ by Richard Bach
+      ✍️ by Doug Larson
     </i>
   </h6>
 </h4>
