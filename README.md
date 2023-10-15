@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.
+  💭 Real success is finding your lifework in the work that you love.
   <h6 align="right">
     <i>
-      ✍️ by Doug Larson
+      ✍️ by David McCullough
     </i>
   </h6>
 </h4>
