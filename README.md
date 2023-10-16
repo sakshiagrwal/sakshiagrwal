@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Real success is finding your lifework in the work that you love.
+  💭 He who controls others may be powerful, but he who has mastered himself is mightier still.
   <h6 align="right">
     <i>
-      ✍️ by David McCullough
+      ✍️ by Laozi
     </i>
   </h6>
 </h4>
