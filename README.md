@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 He who controls others may be powerful, but he who has mastered himself is mightier still.
+  💭 It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.
   <h6 align="right">
     <i>
-      ✍️ by Laozi
+      ✍️ by Max Planck
     </i>
   </h6>
 </h4>
