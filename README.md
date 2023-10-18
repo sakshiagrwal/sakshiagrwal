@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.
+  💭 I believe in one thing only, the power of human will.
   <h6 align="right">
     <i>
-      ✍️ by Max Planck
+      ✍️ by Joseph Stalin
     </i>
   </h6>
 </h4>
