@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 I believe in one thing only, the power of human will.
+  💭 The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it.
   <h6 align="right">
     <i>
-      ✍️ by Joseph Stalin
+      ✍️ by Michelangelo
     </i>
   </h6>
 </h4>
