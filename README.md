@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it.
+  💭 You have enemies? Good. That means you've stood up for something, sometime in your life.
   <h6 align="right">
     <i>
-      ✍️ by Michelangelo
+      ✍️ by Winston Churchill
     </i>
   </h6>
 </h4>
