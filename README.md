@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 You have enemies? Good. That means you've stood up for something, sometime in your life.
+  💭 The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.
   <h6 align="right">
     <i>
-      ✍️ by Winston Churchill
+      ✍️ by Cecil B. DeMille
     </i>
   </h6>
 </h4>
