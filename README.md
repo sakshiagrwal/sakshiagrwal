@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.
+  💭 When you learn, teach. When you get, give.
   <h6 align="right">
     <i>
-      ✍️ by Cecil B. DeMille
+      ✍️ by Maya Angelou
     </i>
   </h6>
 </h4>
