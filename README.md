@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 When you learn, teach. When you get, give.
+  💭 Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!
   <h6 align="right">
     <i>
-      ✍️ by Maya Angelou
+      ✍️ by Richard Bach
     </i>
   </h6>
 </h4>
