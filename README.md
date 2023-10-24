@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!
+  💭 You cannot find yourself by going into the past. You can find yourself by coming into the present.
   <h6 align="right">
     <i>
-      ✍️ by Richard Bach
+      ✍️ by Eckhart Tolle
     </i>
   </h6>
 </h4>
