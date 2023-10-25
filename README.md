@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 You cannot find yourself by going into the past. You can find yourself by coming into the present.
+  💭 To follow, without halt, one aim: There is the secret of success.
   <h6 align="right">
     <i>
-      ✍️ by Eckhart Tolle
+      ✍️ by Anna Pavlova
     </i>
   </h6>
 </h4>
