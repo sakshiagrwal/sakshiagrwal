@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 To follow, without halt, one aim: There is the secret of success.
+  💭 Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.
   <h6 align="right">
     <i>
-      ✍️ by Anna Pavlova
+      ✍️ by Thomas Aquinas
     </i>
   </h6>
 </h4>
