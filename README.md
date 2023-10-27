@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.
+  💭 Well done is better than well said.
   <h6 align="right">
     <i>
-      ✍️ by Thomas Aquinas
+      ✍️ by Benjamin Franklin
     </i>
   </h6>
 </h4>
