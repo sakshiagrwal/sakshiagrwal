@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Well done is better than well said.
+  💭 Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.
   <h6 align="right">
     <i>
-      ✍️ by Benjamin Franklin
+      ✍️ by The Buddha
     </i>
   </h6>
 </h4>
