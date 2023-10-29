@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.
+  💭 Reality does not conform to the ideal but confirms it.
   <h6 align="right">
     <i>
-      ✍️ by The Buddha
+      ✍️ by Gustave Flaubert
     </i>
   </h6>
 </h4>
