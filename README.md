@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Reality does not conform to the ideal but confirms it.
+  💭 The farther backward you can look, the farther forward you can see.
   <h6 align="right">
     <i>
-      ✍️ by Gustave Flaubert
+      ✍️ by Winston Churchill
     </i>
   </h6>
 </h4>
