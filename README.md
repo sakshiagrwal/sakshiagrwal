@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The farther backward you can look, the farther forward you can see.
+  💭 Better be wise by the misfortunes of others than by your own.
   <h6 align="right">
     <i>
-      ✍️ by Winston Churchill
+      ✍️ by Aesop
     </i>
   </h6>
 </h4>
