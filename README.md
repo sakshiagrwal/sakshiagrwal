@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Better be wise by the misfortunes of others than by your own.
+  💭 The happiness of a man in this life does not consist in the absence but in the mastery of his passions.
   <h6 align="right">
     <i>
-      ✍️ by Aesop
+      ✍️ by Alfred Tennyson
     </i>
   </h6>
 </h4>
