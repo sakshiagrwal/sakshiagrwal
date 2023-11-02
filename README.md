@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The happiness of a man in this life does not consist in the absence but in the mastery of his passions.
+  💭 You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life.
   <h6 align="right">
     <i>
-      ✍️ by Alfred Tennyson
+      ✍️ by Ravi Zacharias
     </i>
   </h6>
 </h4>
