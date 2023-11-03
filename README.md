@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life.
+  💭 You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand.
   <h6 align="right">
     <i>
-      ✍️ by Ravi Zacharias
+      ✍️ by Woodrow Wilson
     </i>
   </h6>
 </h4>
