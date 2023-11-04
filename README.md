@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand.
+  💭 One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
   <h6 align="right">
     <i>
-      ✍️ by Woodrow Wilson
+      ✍️ by Elbert Hubbard
     </i>
   </h6>
 </h4>
