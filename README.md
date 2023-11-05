@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
+  💭 The road of excess leads to the palace of wisdom.
   <h6 align="right">
     <i>
-      ✍️ by Elbert Hubbard
+      ✍️ by William Blake
     </i>
   </h6>
 </h4>
