@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The road of excess leads to the palace of wisdom.
+  💭 If you correct your mind, the rest of your life will fall into place.
   <h6 align="right">
     <i>
-      ✍️ by William Blake
+      ✍️ by Laozi
     </i>
   </h6>
 </h4>
