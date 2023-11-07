@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 If you correct your mind, the rest of your life will fall into place.
+  💭 Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation.
   <h6 align="right">
     <i>
-      ✍️ by Laozi
+      ✍️ by Paul Theroux
     </i>
   </h6>
 </h4>
