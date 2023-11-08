@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation.
+  💭 A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
   <h6 align="right">
     <i>
-      ✍️ by Paul Theroux
+      ✍️ by George Bernard Shaw
     </i>
   </h6>
 </h4>
