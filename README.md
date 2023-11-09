@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
+  💭 The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.
   <h6 align="right">
     <i>
-      ✍️ by George Bernard Shaw
+      ✍️ by Charlotte Perkins Gilman
     </i>
   </h6>
 </h4>
