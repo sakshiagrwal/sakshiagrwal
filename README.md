@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.
+  💭 Do not turn back when you are just at the goal.
   <h6 align="right">
     <i>
-      ✍️ by Charlotte Perkins Gilman
+      ✍️ by Publilius Syrus
     </i>
   </h6>
 </h4>
