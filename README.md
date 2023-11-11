@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Do not turn back when you are just at the goal.
+  💭 It has been my experience that folks who have no vices have very few virtues.
   <h6 align="right">
     <i>
-      ✍️ by Publilius Syrus
+      ✍️ by Abraham Lincoln
     </i>
   </h6>
 </h4>
