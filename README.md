@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 It has been my experience that folks who have no vices have very few virtues.
+  💭 Freedom is the right to live as we wish.
   <h6 align="right">
     <i>
-      ✍️ by Abraham Lincoln
+      ✍️ by Epictetus
     </i>
   </h6>
 </h4>
