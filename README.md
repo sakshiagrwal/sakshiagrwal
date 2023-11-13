@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Freedom is the right to live as we wish.
+  💭 One is not called noble who harms living beings. By not harming living beings one is called noble.
   <h6 align="right">
     <i>
-      ✍️ by Epictetus
+      ✍️ by The Buddha
     </i>
   </h6>
 </h4>
