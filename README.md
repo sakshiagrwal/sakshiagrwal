@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 One is not called noble who harms living beings. By not harming living beings one is called noble.
+  💭 Love all, trust a few, do wrong to none.
   <h6 align="right">
     <i>
-      ✍️ by The Buddha
+      ✍️ by William Shakespeare
     </i>
   </h6>
 </h4>
