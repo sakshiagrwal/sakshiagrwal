@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Love all, trust a few, do wrong to none.
+  💭 Everything you are against weakens you. Everything you are for empowers you.
   <h6 align="right">
     <i>
-      ✍️ by William Shakespeare
+      ✍️ by Wayne Dyer
     </i>
   </h6>
 </h4>
