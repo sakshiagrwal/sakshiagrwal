@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Everything you are against weakens you. Everything you are for empowers you.
+  💭 If you focus on results, you will never change. If you focus on change, you will get results.
   <h6 align="right">
     <i>
-      ✍️ by Wayne Dyer
+      ✍️ by Jack Dixon
     </i>
   </h6>
 </h4>
