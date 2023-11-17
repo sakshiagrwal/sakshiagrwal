@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 If you focus on results, you will never change. If you focus on change, you will get results.
+  💭 Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
   <h6 align="right">
     <i>
-      ✍️ by Jack Dixon
+      ✍️ by William C. Menninger
     </i>
   </h6>
 </h4>
