@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
+  💭 Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?
   <h6 align="right">
     <i>
-      ✍️ by William C. Menninger
+      ✍️ by George Eliot
     </i>
   </h6>
 </h4>
