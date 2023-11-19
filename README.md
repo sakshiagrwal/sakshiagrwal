@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?
+  💭 Joy is the best makeup.
   <h6 align="right">
     <i>
-      ✍️ by George Eliot
+      ✍️ by Anne Lamott
     </i>
   </h6>
 </h4>
