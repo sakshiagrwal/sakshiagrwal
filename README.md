@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Joy is the best makeup.
+  💭 You have to do your own growing no matter how tall your grandfather was.
   <h6 align="right">
     <i>
-      ✍️ by Anne Lamott
+      ✍️ by Abraham Lincoln
     </i>
   </h6>
 </h4>
