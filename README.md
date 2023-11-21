@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 You have to do your own growing no matter how tall your grandfather was.
+  💭 A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.
   <h6 align="right">
     <i>
-      ✍️ by Abraham Lincoln
+      ✍️ by William C. Menninger
     </i>
   </h6>
 </h4>
