@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.
+  💭 Much wisdom often goes with fewest words.
   <h6 align="right">
     <i>
-      ✍️ by Napoleon Hill
+      ✍️ by Sophocles
     </i>
   </h6>
 </h4>
