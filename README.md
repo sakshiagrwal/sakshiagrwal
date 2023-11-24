@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Much wisdom often goes with fewest words.
+  💭 I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
   <h6 align="right">
     <i>
-      ✍️ by Sophocles
+      ✍️ by G. K. Chesterton
     </i>
   </h6>
 </h4>
