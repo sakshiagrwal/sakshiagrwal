@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
+  💭 Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.
   <h6 align="right">
     <i>
-      ✍️ by G. K. Chesterton
+      ✍️ by Arthur Conan Doyle
     </i>
   </h6>
 </h4>
