@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.
+  💭 To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.
   <h6 align="right">
     <i>
-      ✍️ by Arthur Conan Doyle
+      ✍️ by Thích Nhất Hạnh
     </i>
   </h6>
 </h4>
