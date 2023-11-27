@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 When one tugs at a single thing in nature, he finds it attached to the rest of the world.
+  💭 Nothing strengthens authority so much as silence.
   <h6 align="right">
     <i>
-      ✍️ by John Muir
+      ✍️ by Leonardo da Vinci
     </i>
   </h6>
 </h4>
