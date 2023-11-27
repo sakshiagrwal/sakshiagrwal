@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.
+  💭 When one tugs at a single thing in nature, he finds it attached to the rest of the world.
   <h6 align="right">
     <i>
-      ✍️ by Thích Nhất Hạnh
+      ✍️ by John Muir
     </i>
   </h6>
 </h4>
