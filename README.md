@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Nothing strengthens authority so much as silence.
+  💭 You can always count on Americans to do the right thing - after they've tried everything else.
   <h6 align="right">
     <i>
-      ✍️ by Leonardo da Vinci
+      ✍️ by Winston Churchill
     </i>
   </h6>
 </h4>
