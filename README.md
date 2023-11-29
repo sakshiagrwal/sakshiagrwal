@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 You can always count on Americans to do the right thing - after they've tried everything else.
+  💭 The only limit to your impact is your imagination and commitment.
   <h6 align="right">
     <i>
-      ✍️ by Winston Churchill
+      ✍️ by Tony Robbins
     </i>
   </h6>
 </h4>
