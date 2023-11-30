@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The only limit to your impact is your imagination and commitment.
+  💭 It is the mark of an educated mind to be able to entertain a thought without accepting it.
   <h6 align="right">
     <i>
-      ✍️ by Tony Robbins
+      ✍️ by Aristotle
     </i>
   </h6>
 </h4>
