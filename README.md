@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 It is the mark of an educated mind to be able to entertain a thought without accepting it.
+  💭 He has no enemies, but is intensely disliked by his friends.
   <h6 align="right">
     <i>
-      ✍️ by Aristotle
+      ✍️ by Oscar Wilde
     </i>
   </h6>
 </h4>
