@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 He has no enemies, but is intensely disliked by his friends.
+  💭 You were not born a winner, and you were not born a loser. You are what you make yourself be.
   <h6 align="right">
     <i>
-      ✍️ by Oscar Wilde
+      ✍️ by Lou Holtz
     </i>
   </h6>
 </h4>
