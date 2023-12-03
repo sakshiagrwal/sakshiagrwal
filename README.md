@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 You were not born a winner, and you were not born a loser. You are what you make yourself be.
+  💭 Failure will never overtake me if my determination to succeed is strong enough.
   <h6 align="right">
     <i>
-      ✍️ by Lou Holtz
+      ✍️ by Og Mandino
     </i>
   </h6>
 </h4>
