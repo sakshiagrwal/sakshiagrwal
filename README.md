@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Failure will never overtake me if my determination to succeed is strong enough.
+  💭 Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
   <h6 align="right">
     <i>
-      ✍️ by Og Mandino
+      ✍️ by Ralph Waldo Emerson
     </i>
   </h6>
 </h4>
