@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
+  💭 To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform.
   <h6 align="right">
     <i>
-      ✍️ by Ralph Waldo Emerson
+      ✍️ by Theodore H. White
     </i>
   </h6>
 </h4>
