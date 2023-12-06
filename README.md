@@ -8,10 +8,10 @@
 - 🌱 Currently expanding my universe with [What You're Learning].
 - 👯 Seeking fellow tech enthusiasts to collaborate on [Type of Projects You're Interested In].
 - 🤖 I’m looking for help with [What You Need Help With].
-- 💬 Let's talk about [Topics You're Knowledgeable About].
-- 📫 Beam me up at: [Your Contact Information].
-- 👽 Pronouns: [Your Pronouns].
-- 🌌 Fun fact: [Interesting Fact About You].
+- 💬 Let's talk about technology, innovation, and how we can shape the future.
+- 📫 Beam me up at: sakshi@email.com.
+- 👧 Pronouns: She/Her.
+- 🌌 Fun fact: I'm fascinated by the potential of AI and its applications in improving our lives.
 
 ## Tech Stack 🛠️
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
