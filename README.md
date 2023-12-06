@@ -1,45 +1,27 @@
-# Hi there, I'm Sakshi Agrawal! 👋
+# Hi there, I'm Sakshi Agrwal! 👋
 
 ## About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎓 I'm currently studying [Your Major] at [Your University].
+- 🔭 I’m working on [Your Current Project or Research Area].
+- 🌱 I’m currently learning [What You're Learning].
+- 👯 I’m looking to collaborate on [Type of Projects You're Interested In].
+- 🤔 I’m looking for help with [What You Need Help With].
+- 💬 Ask me about [Topics You're Knowledgeable About].
+- 📫 How to reach me: [Your Contact Information].
+- 😄 Pronouns: [Your Pronouns].
+- ⚡ Fun fact: [Interesting Fact About You].
 
-## Technologies & Tools
-- Language: Python, JavaScript, etc.
-- Frameworks: React, Django, etc.
-- Tools: Docker, Git, etc.
+## Skills
+- Programming Languages: [Languages You Know].
+- Tools & Technologies: [Tools You Use].
+- Frameworks: [Frameworks You're Experienced With].
 
-## Projects
-- [Project Name](GitHub link) - A short description of the project.
+## My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshiagrwal&show_icons=true)
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshiagrwal&show_icons=true)
+## Connect with Me
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
 
-## Let's Connect!
-- [LinkedIn](Your LinkedIn URL)
-- [Twitter](Your Twitter URL)
-- [Email](mailto:your-email@example.com)
-
-
-<h4 align="center">
-  💭 To succeed, we must first believe that we can.
-  <h6 align="right">
-    <i>
-      ✍️ by Michael Korda
-    </i>
-  </h6>
-</h4>
-
-#
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sakshiagrwal/sakshiagrwal/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sakshiagrwal/sakshiagrwal/output/github-snake.svg">
-  <img alt="snk" src="https://raw.githubusercontent.com/sakshiagrwal/sakshiagrwal/output/github-snake.svg">
-</picture>
+[linkedin]: [https://linkin.com]
+[twitter]: [https://twitter.com]
