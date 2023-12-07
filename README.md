@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 To succeed, we must first believe that we can.
+  💭 What you do not want done to yourself, do not do to others.
   <h6 align="right">
     <i>
-      ✍️ by Michael Korda
+      ✍️ by Confucius
     </i>
   </h6>
 </h4>
