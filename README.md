@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 What you do not want done to yourself, do not do to others.
+  💭 Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
   <h6 align="right">
     <i>
-      ✍️ by Confucius
+      ✍️ by Henry James
     </i>
   </h6>
 </h4>
