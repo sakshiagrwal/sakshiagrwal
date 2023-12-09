@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
+  💭 Democracy's premise rests on the notion that the collective wisdom of the majority will prove right more often than it's wrong; that given sufficient opportunity in the pursuit of happiness, your population will develop its talents, its intellect, its better judgment; that over time its capacity for discernment and self-correction will be enlarged.
   <h6 align="right">
     <i>
-      ✍️ by Henry James
+      ✍️ by Ben Fountain
     </i>
   </h6>
 </h4>
