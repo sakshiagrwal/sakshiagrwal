@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
+  💭 The language of friendship is not words but meanings.
   <h6 align="right">
     <i>
-      ✍️ by Louis Pasteur
+      ✍️ by Henry David Thoreau
     </i>
   </h6>
 </h4>
