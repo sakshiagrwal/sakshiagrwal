@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The language of friendship is not words but meanings.
+  💭 We never live; we are always in the expectation of living.
   <h6 align="right">
     <i>
-      ✍️ by Henry David Thoreau
+      ✍️ by Voltaire
     </i>
   </h6>
 </h4>
