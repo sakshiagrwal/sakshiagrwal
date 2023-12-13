@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 We never live; we are always in the expectation of living.
+  💭 Victory belongs to the most persevering.
   <h6 align="right">
     <i>
-      ✍️ by Voltaire
+      ✍️ by Napoleon
     </i>
   </h6>
 </h4>
