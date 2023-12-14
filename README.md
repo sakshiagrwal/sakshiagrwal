@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Victory belongs to the most persevering.
+  💭 Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.
   <h6 align="right">
     <i>
-      ✍️ by Napoleon
+      ✍️ by Helen Keller
     </i>
   </h6>
 </h4>
