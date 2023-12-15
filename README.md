@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.
+  💭 America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others.
   <h6 align="right">
     <i>
-      ✍️ by Helen Keller
+      ✍️ by Parker Palmer
     </i>
   </h6>
 </h4>
