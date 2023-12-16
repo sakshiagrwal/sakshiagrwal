@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others.
+  💭 Faith in oneself is the best and safest course.
   <h6 align="right">
     <i>
-      ✍️ by Parker Palmer
+      ✍️ by Michelangelo
     </i>
   </h6>
 </h4>
