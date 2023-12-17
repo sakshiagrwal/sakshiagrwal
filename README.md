@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Faith in oneself is the best and safest course.
+  💭 No man was ever wise by chance.
   <h6 align="right">
     <i>
-      ✍️ by Michelangelo
+      ✍️ by Seneca the Younger
     </i>
   </h6>
 </h4>
