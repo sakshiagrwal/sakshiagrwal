@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 No man was ever wise by chance.
+  💭 Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.
   <h6 align="right">
     <i>
-      ✍️ by Seneca the Younger
+      ✍️ by Epicurus
     </i>
   </h6>
 </h4>
