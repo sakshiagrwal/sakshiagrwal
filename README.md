@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.
+  💭 Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes.
   <h6 align="right">
     <i>
-      ✍️ by Epicurus
+      ✍️ by Carl Jung
     </i>
   </h6>
 </h4>
