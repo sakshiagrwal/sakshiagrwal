@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes.
+  💭 They must often change, who would be constant in happiness or wisdom.
   <h6 align="right">
     <i>
-      ✍️ by Carl Jung
+      ✍️ by Confucius
     </i>
   </h6>
 </h4>
