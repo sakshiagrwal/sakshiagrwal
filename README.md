@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 They must often change, who would be constant in happiness or wisdom.
+  💭 It is not so much our friends' help that helps us, as the confidence of their help.
   <h6 align="right">
     <i>
-      ✍️ by Confucius
+      ✍️ by Epicurus
     </i>
   </h6>
 </h4>
