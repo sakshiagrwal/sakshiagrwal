@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 It is not so much our friends' help that helps us, as the confidence of their help.
+  💭 Much wisdom often goes with fewest words.
   <h6 align="right">
     <i>
-      ✍️ by Epicurus
+      ✍️ by Sophocles
     </i>
   </h6>
 </h4>
