@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Much wisdom often goes with fewest words.
+  💭 Humanity is acquiring all the right technology for all the wrong reasons.
   <h6 align="right">
     <i>
-      ✍️ by Sophocles
+      ✍️ by Buckminster Fuller
     </i>
   </h6>
 </h4>
