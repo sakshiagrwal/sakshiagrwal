@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Humanity is acquiring all the right technology for all the wrong reasons.
+  💭 Don't watch the clock; do what it does. Keep going.
   <h6 align="right">
     <i>
-      ✍️ by Buckminster Fuller
+      ✍️ by Sam Levenson
     </i>
   </h6>
 </h4>
