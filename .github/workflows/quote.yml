@@ -2,16 +2,16 @@ name: Update Quote
 
 on:
   # Run automatically every 24 hours.
-  # schedule:
-  #   - cron: "0 */24 * * *"
+  schedule:
+    - cron: "0 */24 * * *"
 
   # Allows to manually run the job at any time.
   workflow_dispatch:
 
   # Run on every push on the main branch.
-  # push:
-  #   branches:
-  #     - main
+  push:
+    branches:
+      - main
 
 jobs:
   update_quote:
