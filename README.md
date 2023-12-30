@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Don't watch the clock; do what it does. Keep going.
+  💭 Listen to what you know instead of what you fear.
   <h6 align="right">
     <i>
-      ✍️ by Sam Levenson
+      ✍️ by Richard Bach
     </i>
   </h6>
 </h4>
