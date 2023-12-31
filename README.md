@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Listen to what you know instead of what you fear.
+  💭 The less effort, the faster and more powerful you will be.
   <h6 align="right">
     <i>
-      ✍️ by Richard Bach
+      ✍️ by Bruce Lee
     </i>
   </h6>
 </h4>
