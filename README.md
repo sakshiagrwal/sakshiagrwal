@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The less effort, the faster and more powerful you will be.
+  💭 We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
   <h6 align="right">
     <i>
-      ✍️ by Bruce Lee
+      ✍️ by Henry Ward Beecher
     </i>
   </h6>
 </h4>
