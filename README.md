@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
+  💭 Many of life's failures are people who did not realize how close they were to success when they gave up.
   <h6 align="right">
     <i>
-      ✍️ by Henry Ward Beecher
+      ✍️ by Thomas Edison
     </i>
   </h6>
 </h4>
