@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Many of life's failures are people who did not realize how close they were to success when they gave up.
+  💭 Reflect on your present blessings, of which every man has many; not on your past misfortunes, of which all men have some.
   <h6 align="right">
     <i>
-      ✍️ by Thomas Edison
+      ✍️ by Charles Dickens
     </i>
   </h6>
 </h4>
