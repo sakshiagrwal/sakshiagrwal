@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Reflect on your present blessings, of which every man has many; not on your past misfortunes, of which all men have some.
+  💭 When we are no longer able to change a situation - we are challenged to change ourselves.
   <h6 align="right">
     <i>
-      ✍️ by Charles Dickens
+      ✍️ by Viktor Frankl
     </i>
   </h6>
 </h4>
