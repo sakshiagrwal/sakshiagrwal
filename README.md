@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 When we are no longer able to change a situation - we are challenged to change ourselves.
+  💭 If the stars should appear but one night every thousand years how man would marvel and adore.
   <h6 align="right">
     <i>
-      ✍️ by Viktor Frankl
+      ✍️ by Ralph Waldo Emerson
     </i>
   </h6>
 </h4>
