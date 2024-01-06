@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 If the stars should appear but one night every thousand years how man would marvel and adore.
+  💭 We have two ears and one mouth so that we can listen twice as much as we speak.
   <h6 align="right">
     <i>
-      ✍️ by Ralph Waldo Emerson
+      ✍️ by Epictetus
     </i>
   </h6>
 </h4>
