@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 We have two ears and one mouth so that we can listen twice as much as we speak.
+  💭 Kindness is the language which the deaf can hear and the blind can see.
   <h6 align="right">
     <i>
-      ✍️ by Epictetus
+      ✍️ by Mark Twain
     </i>
   </h6>
 </h4>
