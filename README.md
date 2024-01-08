@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Kindness is the language which the deaf can hear and the blind can see.
+  💭 All achievements, all earned riches, have their beginning in an idea.
   <h6 align="right">
     <i>
-      ✍️ by Mark Twain
+      ✍️ by Napoleon Hill
     </i>
   </h6>
 </h4>
