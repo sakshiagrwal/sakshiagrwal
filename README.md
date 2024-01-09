@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 All achievements, all earned riches, have their beginning in an idea.
+  💭 Honesty is the best policy.
   <h6 align="right">
     <i>
-      ✍️ by Napoleon Hill
+      ✍️ by Benjamin Franklin
     </i>
   </h6>
 </h4>
