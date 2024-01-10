@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Honesty is the best policy.
+  💭 A rolling stone gathers no moss.
   <h6 align="right">
     <i>
-      ✍️ by Benjamin Franklin
+      ✍️ by Publilius Syrus
     </i>
   </h6>
 </h4>
