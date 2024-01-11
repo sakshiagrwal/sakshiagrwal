@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 A rolling stone gathers no moss.
+  💭 Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.
   <h6 align="right">
     <i>
-      ✍️ by Publilius Syrus
+      ✍️ by Albert Einstein
     </i>
   </h6>
 </h4>
