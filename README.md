@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.
+  💭 Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work.
   <h6 align="right">
     <i>
-      ✍️ by Albert Einstein
+      ✍️ by Thomas Edison
     </i>
   </h6>
 </h4>
