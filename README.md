@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work.
+  💭 To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.
   <h6 align="right">
     <i>
-      ✍️ by Thomas Edison
+      ✍️ by Henri Bergson
     </i>
   </h6>
 </h4>
