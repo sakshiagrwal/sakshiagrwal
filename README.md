@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.
+  💭 Spread love everywhere you go. Let no one ever come to you without leaving happier.
   <h6 align="right">
     <i>
-      ✍️ by Henri Bergson
+      ✍️ by Mother Teresa
     </i>
   </h6>
 </h4>
