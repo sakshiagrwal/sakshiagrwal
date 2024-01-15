@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Spread love everywhere you go. Let no one ever come to you without leaving happier.
+  💭 This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.
   <h6 align="right">
     <i>
-      ✍️ by Mother Teresa
+      ✍️ by Thomas Carlyle
     </i>
   </h6>
 </h4>
