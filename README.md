@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.
+  💭 Love and compassion open our own inner life, reducing stress, distrust and loneliness.
   <h6 align="right">
     <i>
-      ✍️ by Thomas Carlyle
+      ✍️ by Dalai Lama
     </i>
   </h6>
 </h4>
