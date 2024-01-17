@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Love and compassion open our own inner life, reducing stress, distrust and loneliness.
+  💭 You have to believe in yourself.
   <h6 align="right">
     <i>
-      ✍️ by Dalai Lama
+      ✍️ by Sun Tzu
     </i>
   </h6>
 </h4>
