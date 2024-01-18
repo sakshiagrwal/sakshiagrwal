@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 You have to believe in yourself.
+  💭 If a man going down into a river, swollen and swiftly flowing, is carried away by the current — how can he help others across? – The Buddha
   <h6 align="right">
     <i>
-      ✍️ by Sun Tzu
+      ✍️ by The Buddha
     </i>
   </h6>
 </h4>
