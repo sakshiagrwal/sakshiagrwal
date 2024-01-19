@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 If a man going down into a river, swollen and swiftly flowing, is carried away by the current — how can he help others across? – The Buddha
+  💭 Happiness does not come from having much, but from being attached to little.
   <h6 align="right">
     <i>
-      ✍️ by The Buddha
+      ✍️ by Cheng Yen
     </i>
   </h6>
 </h4>
