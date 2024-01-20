@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Happiness does not come from having much, but from being attached to little.
+  💭 No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.
   <h6 align="right">
     <i>
-      ✍️ by Cheng Yen
+      ✍️ by Robert Southey
     </i>
   </h6>
 </h4>
