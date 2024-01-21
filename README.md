@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.
+  💭 It is not enough to have a good mind; the main thing is to use it well.
   <h6 align="right">
     <i>
-      ✍️ by Robert Southey
+      ✍️ by René Descartes
     </i>
   </h6>
 </h4>
