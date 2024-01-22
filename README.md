@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 It is not enough to have a good mind; the main thing is to use it well.
+  💭 It isn't where you come from, it's where you're going that counts.
   <h6 align="right">
     <i>
-      ✍️ by René Descartes
+      ✍️ by Ella Fitzgerald
     </i>
   </h6>
 </h4>
