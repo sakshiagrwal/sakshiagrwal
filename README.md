@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 It isn't where you come from, it's where you're going that counts.
+  💭 The art challenges the technology, and the technology inspires the art.
   <h6 align="right">
     <i>
-      ✍️ by Ella Fitzgerald
+      ✍️ by John Lasseter
     </i>
   </h6>
 </h4>
