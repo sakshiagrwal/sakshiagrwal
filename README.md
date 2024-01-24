@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The art challenges the technology, and the technology inspires the art.
+  💭 We are all something, but none of us are everything.
   <h6 align="right">
     <i>
-      ✍️ by John Lasseter
+      ✍️ by Blaise Pascal
     </i>
   </h6>
 </h4>
