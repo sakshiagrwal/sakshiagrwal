@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 We are all something, but none of us are everything.
+  💭 A goal without a plan is just a wish.
   <h6 align="right">
     <i>
-      ✍️ by Blaise Pascal
+      ✍️ by Larry Elder
     </i>
   </h6>
 </h4>
