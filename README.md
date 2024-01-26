@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 A goal without a plan is just a wish.
+  💭 Science is organized knowledge. Wisdom is organized life.
   <h6 align="right">
     <i>
-      ✍️ by Larry Elder
+      ✍️ by Immanuel Kant
     </i>
   </h6>
 </h4>
