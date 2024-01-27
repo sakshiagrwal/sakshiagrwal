@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Science is organized knowledge. Wisdom is organized life.
+  💭 Wisdom is the supreme part of happiness.
   <h6 align="right">
     <i>
-      ✍️ by Immanuel Kant
+      ✍️ by Sophocles
     </i>
   </h6>
 </h4>
