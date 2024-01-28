@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Wisdom is the supreme part of happiness.
+  💭 I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
   <h6 align="right">
     <i>
-      ✍️ by Sophocles
+      ✍️ by Jimmy Dean
     </i>
   </h6>
 </h4>
