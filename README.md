@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
+  💭 Nobody made a greater mistake than he who did nothing because he could do only a little.
   <h6 align="right">
     <i>
-      ✍️ by Jimmy Dean
+      ✍️ by Edmund Burke
     </i>
   </h6>
 </h4>
