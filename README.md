@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Nobody made a greater mistake than he who did nothing because he could do only a little.
+  💭 He who lives in harmony with himself lives in harmony with the world.
   <h6 align="right">
     <i>
-      ✍️ by Edmund Burke
+      ✍️ by Marcus Aurelius
     </i>
   </h6>
 </h4>
