@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 He who lives in harmony with himself lives in harmony with the world.
+  💭 The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
   <h6 align="right">
     <i>
-      ✍️ by Marcus Aurelius
+      ✍️ by Anaïs Nin
     </i>
   </h6>
 </h4>
