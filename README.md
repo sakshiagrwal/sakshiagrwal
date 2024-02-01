@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
+  💭 Only put off until tomorrow what you are willing to die having left undone.
   <h6 align="right">
     <i>
-      ✍️ by Anaïs Nin
+      ✍️ by Pablo Picasso
     </i>
   </h6>
 </h4>
