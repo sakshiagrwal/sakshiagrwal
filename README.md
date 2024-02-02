@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Only put off until tomorrow what you are willing to die having left undone.
+  💭 Life has no blessing like a prudent friend.
   <h6 align="right">
     <i>
-      ✍️ by Pablo Picasso
+      ✍️ by Euripides
     </i>
   </h6>
 </h4>
