@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude.
+  💭 Trust only movement. Life happens at the level of events, not of words. Trust movement.
   <h6 align="right">
     <i>
-      ✍️ by Colin Powell
+      ✍️ by Alfred Adler
     </i>
   </h6>
 </h4>
