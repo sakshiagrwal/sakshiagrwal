@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Trust only movement. Life happens at the level of events, not of words. Trust movement.
+  💭 The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
   <h6 align="right">
     <i>
-      ✍️ by Alfred Adler
+      ✍️ by Daniel J. Boorstin
     </i>
   </h6>
 </h4>
