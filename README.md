@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
+  💭 If you want a thing done well, do it yourself.
   <h6 align="right">
     <i>
-      ✍️ by Daniel J. Boorstin
+      ✍️ by Napoleon
     </i>
   </h6>
 </h4>
