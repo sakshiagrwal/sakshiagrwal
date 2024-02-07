@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 If you want a thing done well, do it yourself.
+  💭 Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.
   <h6 align="right">
     <i>
-      ✍️ by Napoleon
+      ✍️ by Thomas Aquinas
     </i>
   </h6>
 </h4>
