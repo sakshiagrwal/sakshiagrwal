@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.
+  💭 Everything in the universe goes by indirection. There are no straight lines.
   <h6 align="right">
     <i>
-      ✍️ by Thomas Aquinas
+      ✍️ by Ralph Waldo Emerson
     </i>
   </h6>
 </h4>
