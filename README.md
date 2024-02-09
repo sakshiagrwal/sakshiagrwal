@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Everything in the universe goes by indirection. There are no straight lines.
+  💭 If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.
   <h6 align="right">
     <i>
-      ✍️ by Ralph Waldo Emerson
+      ✍️ by Daisaku Ikeda
     </i>
   </h6>
 </h4>
