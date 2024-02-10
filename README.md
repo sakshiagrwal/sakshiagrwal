@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 There is only one corner of the universe you can be certain of improving, and that's your own self.
+  💭 Love does not consist of gazing at each other, but in looking together in the same direction.
   <h6 align="right">
     <i>
-      ✍️ by Aldous Huxley
+      ✍️ by Antoine de Saint-Exupéry
     </i>
   </h6>
 </h4>
