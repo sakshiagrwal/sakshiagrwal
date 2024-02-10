@@ -26,7 +26,7 @@ jobs:
       - name: Get Random Quote
         id: quote
         run: |
-          quote_data=$(curl -s "https://api.quotable.io/random")
+          quote_data=$(curl --insecure "https://api.quotable.io/random")
           echo "QUOTE=$(echo "$quote_data" | jq -r '.content')" >> $GITHUB_ENV
           echo "AUTHOR=$(echo "$quote_data" | jq -r '.author')" >> $GITHUB_ENV
 
