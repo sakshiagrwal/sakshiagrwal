@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.
+  💭 One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world.
   <h6 align="right">
     <i>
-      ✍️ by Daisaku Ikeda
+      ✍️ by Hannah Szenes
     </i>
   </h6>
 </h4>
