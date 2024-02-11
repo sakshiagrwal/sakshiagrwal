@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Love does not consist of gazing at each other, but in looking together in the same direction.
+  💭 Dreams come true. Without that possibility, nature would not incite us to have them.
   <h6 align="right">
     <i>
-      ✍️ by Antoine de Saint-Exupéry
+      ✍️ by John Updike
     </i>
   </h6>
 </h4>
