@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Dreams come true. Without that possibility, nature would not incite us to have them.
+  💭 Everyone has been made for some particular work, and the desire for that work has been put in every heart.
   <h6 align="right">
     <i>
-      ✍️ by John Updike
+      ✍️ by Rumi
     </i>
   </h6>
 </h4>
