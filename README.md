@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Everyone has been made for some particular work, and the desire for that work has been put in every heart.
+  💭 Wisdom alone is the science of other sciences.
   <h6 align="right">
     <i>
-      ✍️ by Rumi
+      ✍️ by Plato
     </i>
   </h6>
 </h4>
