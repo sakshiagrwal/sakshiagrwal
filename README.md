@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Wisdom alone is the science of other sciences.
+  💭 It's not what happens to you, but how you react to it that matters.
   <h6 align="right">
     <i>
-      ✍️ by Plato
+      ✍️ by Epictetus
     </i>
   </h6>
 </h4>
