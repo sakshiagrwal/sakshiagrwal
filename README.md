@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 It's not what happens to you, but how you react to it that matters.
+  💭 Motivation is the art of getting people to do what you want them to do because they want to do it.
   <h6 align="right">
     <i>
-      ✍️ by Epictetus
+      ✍️ by Dwight D. Eisenhower
     </i>
   </h6>
 </h4>
