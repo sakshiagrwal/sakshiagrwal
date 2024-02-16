@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Motivation is the art of getting people to do what you want them to do because they want to do it.
+  💭 Real magic in relationships means an absence of judgement of others.
   <h6 align="right">
     <i>
-      ✍️ by Dwight D. Eisenhower
+      ✍️ by Wayne Dyer
     </i>
   </h6>
 </h4>
