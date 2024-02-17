@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Real magic in relationships means an absence of judgement of others.
+  💭 It's important to know that words don't move mountains. Work, exacting work moves mountains.
   <h6 align="right">
     <i>
-      ✍️ by Wayne Dyer
+      ✍️ by Danilo Dolci
     </i>
   </h6>
 </h4>
