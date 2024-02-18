@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 It's important to know that words don't move mountains. Work, exacting work moves mountains.
+  💭 He is a wise man who does not grieve for the things which he has not but rejoices for those which he has.
   <h6 align="right">
     <i>
-      ✍️ by Danilo Dolci
+      ✍️ by Epictetus
     </i>
   </h6>
 </h4>
