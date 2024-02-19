@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 He is a wise man who does not grieve for the things which he has not but rejoices for those which he has.
+  💭 Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
   <h6 align="right">
     <i>
-      ✍️ by Epictetus
+      ✍️ by Hannah Arendt
     </i>
   </h6>
 </h4>
