@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
+  💭 Ideas are the beginning points of all fortunes.
   <h6 align="right">
     <i>
-      ✍️ by Hannah Arendt
+      ✍️ by Napoleon Hill
     </i>
   </h6>
 </h4>
