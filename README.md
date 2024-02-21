@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Ideas are the beginning points of all fortunes.
+  💭 Problems are only opportunities with thorns on them.
   <h6 align="right">
     <i>
-      ✍️ by Napoleon Hill
+      ✍️ by Hugh Miller
     </i>
   </h6>
 </h4>
