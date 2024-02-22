@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Problems are only opportunities with thorns on them.
+  💭 Be faithful in small things because it is in them that your strength lies.
   <h6 align="right">
     <i>
-      ✍️ by Hugh Miller
+      ✍️ by Mother Teresa
     </i>
   </h6>
 </h4>
