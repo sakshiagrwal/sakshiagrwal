@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Be faithful in small things because it is in them that your strength lies.
+  💭 Technology is the campfire around which we tell our stories.
   <h6 align="right">
     <i>
-      ✍️ by Mother Teresa
+      ✍️ by Laurie Anderson
     </i>
   </h6>
 </h4>
