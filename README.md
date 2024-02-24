@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Technology is the campfire around which we tell our stories.
+  💭 All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
   <h6 align="right">
     <i>
-      ✍️ by Laurie Anderson
+      ✍️ by Albert Camus
     </i>
   </h6>
 </h4>
