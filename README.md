@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
+  💭 Where there is charity and wisdom, there is neither fear nor ignorance.
   <h6 align="right">
     <i>
-      ✍️ by Albert Camus
+      ✍️ by Francis of Assisi
     </i>
   </h6>
 </h4>
