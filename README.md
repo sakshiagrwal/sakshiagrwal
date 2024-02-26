@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Where there is charity and wisdom, there is neither fear nor ignorance.
+  💭 Gratitude is not only the greatest of virtues, but the parent of all the others.
   <h6 align="right">
     <i>
-      ✍️ by Francis of Assisi
+      ✍️ by Cicero
     </i>
   </h6>
 </h4>
