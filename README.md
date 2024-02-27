@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Gratitude is not only the greatest of virtues, but the parent of all the others.
+  💭 In the middle of every difficulty lies opportunity.
   <h6 align="right">
     <i>
-      ✍️ by Cicero
+      ✍️ by Albert Einstein
     </i>
   </h6>
 </h4>
