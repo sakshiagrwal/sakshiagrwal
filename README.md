@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 In the middle of every difficulty lies opportunity.
+  💭 He who knows himself is enlightened.
   <h6 align="right">
     <i>
-      ✍️ by Albert Einstein
+      ✍️ by Laozi
     </i>
   </h6>
 </h4>
