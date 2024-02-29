@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 He who knows himself is enlightened.
+  💭 I never see what has been done; I only see what remains to be done.
   <h6 align="right">
     <i>
-      ✍️ by Laozi
+      ✍️ by Marie Curie
     </i>
   </h6>
 </h4>
