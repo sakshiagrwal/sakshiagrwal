@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The pain passes, but the beauty remains.
+  💭 Better to have loved and lost, than to have never loved at all.
   <h6 align="right">
     <i>
-      ✍️ by Pierre-Auguste Renoir
+      ✍️ by Augustine of Hippo
     </i>
   </h6>
 </h4>
