@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Better to have loved and lost, than to have never loved at all.
+  💭 True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.
   <h6 align="right">
     <i>
-      ✍️ by Augustine of Hippo
+      ✍️ by Daisaku Ikeda
     </i>
   </h6>
 </h4>
