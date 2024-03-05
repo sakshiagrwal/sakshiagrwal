@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.
+  💭 A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.
   <h6 align="right">
     <i>
-      ✍️ by Daisaku Ikeda
+      ✍️ by Denis Waitley
     </i>
   </h6>
 </h4>
