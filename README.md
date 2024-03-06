@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.
+  💭 Always bear in mind that your own resolution to succeed is more important than any other.
   <h6 align="right">
     <i>
-      ✍️ by Denis Waitley
+      ✍️ by Abraham Lincoln
     </i>
   </h6>
 </h4>
