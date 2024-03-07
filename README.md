@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Always bear in mind that your own resolution to succeed is more important than any other.
+  💭 Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
   <h6 align="right">
     <i>
-      ✍️ by Abraham Lincoln
+      ✍️ by Elie Wiesel
     </i>
   </h6>
 </h4>
