@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
+  💭 Only do what your heart tells you.
   <h6 align="right">
     <i>
-      ✍️ by Elie Wiesel
+      ✍️ by Princess Diana
     </i>
   </h6>
 </h4>
