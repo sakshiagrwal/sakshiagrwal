@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Only do what your heart tells you.
+  💭 When your desires are strong enough you will appear to possess superhuman powers to achieve.
   <h6 align="right">
     <i>
-      ✍️ by Princess Diana
+      ✍️ by Napoleon Hill
     </i>
   </h6>
 </h4>
