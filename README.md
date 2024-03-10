@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 When your desires are strong enough you will appear to possess superhuman powers to achieve.
+  💭 Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.
   <h6 align="right">
     <i>
-      ✍️ by Napoleon Hill
+      ✍️ by Lucille Ball
     </i>
   </h6>
 </h4>
