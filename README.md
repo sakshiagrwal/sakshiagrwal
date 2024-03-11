@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.
+  💭 Science is organized knowledge. Wisdom is organized life.
   <h6 align="right">
     <i>
-      ✍️ by Lucille Ball
+      ✍️ by Immanuel Kant
     </i>
   </h6>
 </h4>
