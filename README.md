@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Science is organized knowledge. Wisdom is organized life.
+  💭 Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
   <h6 align="right">
     <i>
-      ✍️ by Immanuel Kant
+      ✍️ by Bruce Lee
     </i>
   </h6>
 </h4>
