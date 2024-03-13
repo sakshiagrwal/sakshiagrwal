@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
+  💭 Keep silence for the most part, and speak only when you must, and then briefly.
   <h6 align="right">
     <i>
-      ✍️ by Bruce Lee
+      ✍️ by Epictetus
     </i>
   </h6>
 </h4>
