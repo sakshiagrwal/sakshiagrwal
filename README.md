@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Keep silence for the most part, and speak only when you must, and then briefly.
+  💭 An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind.
   <h6 align="right">
     <i>
-      ✍️ by Epictetus
+      ✍️ by Albert Schweitzer
     </i>
   </h6>
 </h4>
