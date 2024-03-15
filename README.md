@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind.
+  💭 They blame those who remain silent, they blame those who speak much, they blame those who speak in moderation. There is none in the world who is not blamed.
   <h6 align="right">
     <i>
-      ✍️ by Albert Schweitzer
+      ✍️ by The Buddha
     </i>
   </h6>
 </h4>
