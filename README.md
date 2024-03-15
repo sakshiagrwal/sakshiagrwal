@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 They blame those who remain silent, they blame those who speak much, they blame those who speak in moderation. There is none in the world who is not blamed.
+  💭 The art of progress is to preserve order amid change, and to preserve change amid order.
   <h6 align="right">
     <i>
-      ✍️ by The Buddha
+      ✍️ by Alfred North Whitehead
     </i>
   </h6>
 </h4>
