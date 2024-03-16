@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The art of progress is to preserve order amid change, and to preserve change amid order.
+  💭 No one has a finer command of language than the person who keeps his mouth shut.
   <h6 align="right">
     <i>
-      ✍️ by Alfred North Whitehead
+      ✍️ by Sam Rayburn
     </i>
   </h6>
 </h4>
