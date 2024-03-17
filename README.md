@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 No one has a finer command of language than the person who keeps his mouth shut.
+  💭 Quality is not an act; it is a habit.
   <h6 align="right">
     <i>
-      ✍️ by Sam Rayburn
+      ✍️ by Aristotle
     </i>
   </h6>
 </h4>
