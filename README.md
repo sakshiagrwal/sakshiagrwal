@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Quality is not an act; it is a habit.
+  💭 You can always count on Americans to do the right thing - after they've tried everything else.
   <h6 align="right">
     <i>
-      ✍️ by Aristotle
+      ✍️ by Winston Churchill
     </i>
   </h6>
 </h4>
