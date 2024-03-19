@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 You can always count on Americans to do the right thing - after they've tried everything else.
+  💭 No party has a monopoly on wisdom. No democracy works without compromise.
   <h6 align="right">
     <i>
-      ✍️ by Winston Churchill
+      ✍️ by Barack Obama
     </i>
   </h6>
 </h4>
