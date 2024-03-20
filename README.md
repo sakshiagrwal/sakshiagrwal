@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 No party has a monopoly on wisdom. No democracy works without compromise.
+  💭 Fear not for the future, weep not for the past.
   <h6 align="right">
     <i>
-      ✍️ by Barack Obama
+      ✍️ by Percy Bysshe Shelley
     </i>
   </h6>
 </h4>
