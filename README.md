@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Fear not for the future, weep not for the past.
+  💭 Setting an example is not the main means of influencing another, it is the only means.
   <h6 align="right">
     <i>
-      ✍️ by Percy Bysshe Shelley
+      ✍️ by Albert Einstein
     </i>
   </h6>
 </h4>
