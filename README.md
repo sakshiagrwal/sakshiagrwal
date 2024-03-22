@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 Setting an example is not the main means of influencing another, it is the only means.
+  💭 The greatest mistake you can make in life is to be continually fearing you will make one.
   <h6 align="right">
     <i>
-      ✍️ by Albert Einstein
+      ✍️ by Elbert Hubbard
     </i>
   </h6>
 </h4>
