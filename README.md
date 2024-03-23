@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The greatest mistake you can make in life is to be continually fearing you will make one.
+  💭 One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.
   <h6 align="right">
     <i>
-      ✍️ by Elbert Hubbard
+      ✍️ by Albert Schweitzer
     </i>
   </h6>
 </h4>
