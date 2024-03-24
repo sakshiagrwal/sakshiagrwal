@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.
+  💭 The fox has many tricks. The hedgehog has but one. But that is the best of all.
   <h6 align="right">
     <i>
-      ✍️ by Albert Schweitzer
+      ✍️ by Erasmus
     </i>
   </h6>
 </h4>
