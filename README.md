@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 The fox has many tricks. The hedgehog has but one. But that is the best of all.
+  💭 Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
   <h6 align="right">
     <i>
-      ✍️ by Erasmus
+      ✍️ by William Arthur Ward
     </i>
   </h6>
 </h4>
