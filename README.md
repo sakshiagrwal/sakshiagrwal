@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 If you are bitter, you are like a dry leaf that you can just squash, and you can get blown away by the wind. There is much more wisdom in forgiveness.
+  💭 But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be.
   <h6 align="right">
     <i>
-      ✍️ by Vusi Mahlasela
+      ✍️ by Alan Watts
     </i>
   </h6>
 </h4>
