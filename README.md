@@ -1,8 +1,8 @@
 <h4 align="center">
-  💭 But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be.
+  💭 The most I can do for my friend is simply be his friend.
   <h6 align="right">
     <i>
-      ✍️ by Alan Watts
+      ✍️ by Henry David Thoreau
     </i>
   </h6>
 </h4>
